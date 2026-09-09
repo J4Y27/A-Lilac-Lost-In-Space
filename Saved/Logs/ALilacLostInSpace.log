@@ -2287,3 +2287,123 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_water/T_wave_N.uasset
 [2026.09.09-00.17.44:772][441]LogFab: Display: Scanning 74 assets for plugin dependencies...
 
+[2026.09.09-00.18.50:030][800]Cmd: TRANSACTION UNDO
+[2026.09.09-00.18.50:030][800]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.09.09-00.18.53:586][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.09.09-00.18.55:242][ 31]LogSlate: Window 'Save Content' being destroyed
+[2026.09.09-00.18.55:275][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-00.19.06:854][ 31]LogSlate: Window 'Save Level As' being destroyed
+[2026.09.09-00.19.06:877][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.6 sec
+[2026.09.09-00.19.14:736][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.09.09-00.19.18:899][595]LogSlate: Window 'Save Content' being destroyed
+[2026.09.09-00.19.18:972][595]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.09-00.19.19:012][595]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2026.09.09-00.19.19:021][595]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.09-00.19.19:021][595]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-00.19.19:021][595]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Test.Test, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-00.19.19:084][595]LogWorldPartition: Display: WorldPartition initialize took 63.426 ms (total: 291.232 ms)
+[2026.09.09-00.19.19:086][595]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Test.Test
+[2026.09.09-00.19.19:088][595]Cmd: MAP LOAD FILE="../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.09-00.19.19:103][595]LogTexture: Display: Building texture TwoD: /Game/Test.Test:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture (TFO_AutoDXT VT, 2048x2048 x1x1x1) (Required Memory Estimate: 187.666666 MB), EncodeSpeed: Fast
+[2026.09.09-00.19.19:172][595]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-00.19.19:178][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-00.19.19:178][595]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.09.09-00.19.19:228][595]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2026.09.09-00.19.19:246][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.09.09-00.19.19:257][595]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-00.19.19:257][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-00.19.19:257][595]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Test.Test
+[2026.09.09-00.19.19:289][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.09.09-00.19.19:321][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.09.09-00.19.19:325][595]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2026.09.09-00.19.19:325][595]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2026.09.09-00.19.19:327][595]LogWorldPartition: ULevel::OnLevelLoaded(Test)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.09-00.19.19:327][595]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-00.19.19:327][595]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Test.Test, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-00.19.20:000][595]LogWorldPartition: Display: WorldPartition initialize took 672.557 ms (total: 963.790 ms)
+[2026.09.09-00.19.20:167][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.09-00.19.20:203][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.09.09-00.19.20:211][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.09-00.19.20:212][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.032ms to complete.
+[2026.09.09-00.19.21:018][596]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-00.19.23:286][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.09.09-00.19.23:290][794]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.09-00.19.23:329][794]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.09.09-00.19.23:331][794]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.09-00.19.23:331][794]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-00.19.23:331][794]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level1.Level1, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-00.19.23:461][794]LogWorldPartition: Display: WorldPartition initialize took 129.551 ms (total: 1.09 sec)
+[2026.09.09-00.19.23:462][794]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level1.Level1
+[2026.09.09-00.19.23:462][794]Cmd: MAP LOAD FILE="../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.09-00.19.23:491][794]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-00.19.23:491][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-00.19.23:492][794]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Test.Test
+[2026.09.09-00.19.23:546][794]LogAudio: Display: Audio Device unregistered from world 'Test'.
+[2026.09.09-00.19.23:556][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.09.09-00.19.23:563][794]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-00.19.23:563][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-00.19.23:563][794]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level1.Level1
+[2026.09.09-00.19.23:596][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.09.09-00.19.23:628][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.09.09-00.19.23:632][794]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2026.09.09-00.19.23:632][794]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.09.09-00.19.23:634][794]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.09-00.19.23:634][794]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-00.19.23:634][794]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level1.Level1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-00.19.24:209][794]LogTexture: Display: Building texture TwoD: /Game/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2026.09.09-00.19.24:304][794]LogWorldPartition: Display: WorldPartition initialize took 669.763 ms (total: 1.76 sec)
+[2026.09.09-00.19.24:468][794]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.09-00.19.24:504][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.09.09-00.19.24:512][794]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.09-00.19.24:513][794]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.081ms to complete.
+[2026.09.09-00.19.25:303][795]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-00.19.44:281][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 634.418823
+[2026.09.09-00.19.44:386][550]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.09-00.19.44:386][550]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 634.510803, Update Interval: 344.182861
+[2026.09.09-00.19.52:288][231]Cmd: TRANSACTION UNDO
+[2026.09.09-00.19.52:288][231]LogEditorTransaction: Undo Landscape Editing: Erase
+[2026.09.09-00.19.52:310][231]LogTexture: Display: Building texture TwoD: /Game/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-00.19.52:311][231]LogTexture: Display: Building texture TwoD: /Game/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-00.19.52:533][234]Cmd: TRANSACTION UNDO
+[2026.09.09-00.19.52:533][234]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2026.09.09-00.20.19:365][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.09.09-00.20.20:720][160]LogSlate: Window 'Save Content' being destroyed
+[2026.09.09-00.20.20:729][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-00.20.20:793][160]LogTexture: Display: Building texture TwoD: /Game/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2026.09.09-00.20.20:793][160]LogTexture: Display: Building texture TwoD: /Game/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-00.20.20:795][160]LogTexture: Display: Building texture TwoD: /Game/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2026.09.09-00.20.20:795][160]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Level1/6/7P/732EX2RX6DIP6ERNU7REC4
+[2026.09.09-00.20.20:795][160]LogTexture: Display: Building texture TwoD: /Game/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-00.20.21:082][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/6/7P/732EX2RX6DIP6ERNU7REC4
+[2026.09.09-00.20.21:083][160]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/732EX2RX6DIP6ERNU7REC413EB1E6047627224A57EA5A3DBF23007.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Level1/6/7P/732EX2RX6DIP6ERNU7REC4.uasset'
+[2026.09.09-00.20.21:086][160]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Level1/7/AV/20WRAGBBOG88SVKYZEY05C
+[2026.09.09-00.20.21:115][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/7/AV/20WRAGBBOG88SVKYZEY05C
+[2026.09.09-00.20.21:116][160]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/20WRAGBBOG88SVKYZEY05CB6C85F70435BF4A6F1B9FA959F6F479C.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Level1/7/AV/20WRAGBBOG88SVKYZEY05C.uasset'
+[2026.09.09-00.20.21:303][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 574.432 ms (total: 12.1 sec)
+[2026.09.09-00.20.21:357][160]LogContentValidation: Enabled validators:
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-00.20.21:357][160]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-00.20.21:357][160]LogContentValidation: Display: Starting to validate 1 assets (2 associated objects such as actors)
+[2026.09.09-00.20.21:358][160]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.09-00.20.21:358][160]AssetCheck: /Game/Level1 Validating asset
+[2026.09.09-00.20.21:358][160]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
