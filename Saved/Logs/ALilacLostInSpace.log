@@ -4349,3 +4349,6 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.09.09-01.31.49:836][615]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.09-01.32.17:097][987]LogFab: Display: Add listing to project - 9fd53527-28c3-477a-8069-0943e064ae04
+[2026.09.09-01.32.17:097][987]LogFab: Display: Listing type - unreal-engine
+[2026.09.09-01.32.17:097][987]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/EliteLan31b4bc84d233V3/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/EliteLan31b4bc84d233V3/CloudDir,https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/EliteLan31b4bc84d233V3/CloudDir
