@@ -3997,3 +3997,355 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.09.09-01.28.48:744][714]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.09-01.29.13:488][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.09.09-01.29.13:491][789]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.029
+[2026.09.09-01.29.23:399][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1742.762817
+[2026.09.09-01.29.23:465][682]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.09-01.29.23:465][682]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1742.820312, Update Interval: 301.983093
+[2026.09.09-01.29.23:770][718]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.09-01.29.23:824][718]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.09-01.29.23:840][719]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.09-01.29.30:120][419]LogContentBrowser: Attempting asset rename: NewFolder -> Foliage
+[2026.09.09-01.29.30:120][419]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.09-01.29.41:131][565]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.41:131][565]LogEditorTransaction: Undo Drag-drop Foliage
+[2026.09.09-01.29.41:238][565]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.09.09-01.29.41:247][565]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' with subface index 0 in Game thread.
+[2026.09.09-01.29.41:247][565]LogSlate: Display: Took 0.008309 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K) on Game thread.
+[2026.09.09-01.29.41:247][565]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface 0 in Game thread.
+[2026.09.09-01.29.41:247][565]LogSlate: Display: Font face '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.09-01.29.41:685][575]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.41:685][575]LogEditorTransaction: Undo Drag-drop Foliage
+[2026.09.09-01.29.42:189][626]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.42:189][626]LogEditorTransaction: Undo Drag-drop Foliage
+[2026.09.09-01.29.43:391][754]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.43:391][754]LogEditorTransaction: Undo Delete Elements
+[2026.09.09-01.29.43:855][800]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.43:855][800]LogEditorTransaction: Undo Set Scale
+[2026.09.09-01.29.44:248][841]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.44:248][841]LogEditorTransaction: Undo Set Scale
+[2026.09.09-01.29.44:559][874]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.44:559][874]LogEditorTransaction: Undo Transform
+[2026.09.09-01.29.44:994][912]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.44:994][912]LogEditorTransaction: Undo Transform
+[2026.09.09-01.29.50:158][395]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.09-01.29.59:227][277]Cmd: TRANSACTION UNDO
+[2026.09.09-01.29.59:227][277]LogEditorTransaction: Undo Foliage Editing
+[2026.09.09-01.30.07:298][901]Cmd: TRANSACTION UNDO
+[2026.09.09-01.30.07:298][901]LogEditorTransaction: Undo Foliage Editing
+[2026.09.09-01.30.07:843][910]Cmd: TRANSACTION UNDO
+[2026.09.09-01.30.07:843][910]LogEditorTransaction: Undo Foliage Editing
+[2026.09.09-01.30.21:671][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: ================================================
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Total job queries 2,433, among them cache hits 68 (2.79%), DDC hits 411 (16.89%), Duplicates 671 (27.58%)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Tracking 1,694 distinct input hashes that result in 1,095 distinct outputs (64.64%)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: RAM used: 12.03 MiB of 1.60 GiB budget. Usage: 0.73%
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Shaders Compiled: 1,283
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Jobs assigned 1,283, completed 1,283 (100%)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Average time worker was idle: 6.04 s
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Time job spent in pending queue: average 33.95 s, longest 75.79 s
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 2.45 s
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Job life time (pending + execution): average 34.48 s, max 76.15
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Shader code size: total 16.661 MiB, numShaders 1,306, average 13.063 KiB, min 1.199 KiB, max 38.121 KiB
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 88.01 s
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Jobs were issued in 1,278 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Average processing rate: 14.58 jobs/sec
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Total thread time: 558.921 s
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Total thread preprocess time: 46.012 s
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Percentage time preprocessing: 8.23%
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Effective parallelization: 6.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.793839
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.41 sec, max 1.89 sec, min 0.90 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 0.93 sec, max 1.32 sec, min 0.68 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  440 times, average 0.82 sec, max 1.98 sec, min 0.00 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   21 times, average 0.60 sec, max 1.05 sec, min 0.32 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   16 times, average 0.58 sec, max 1.05 sec, min 0.35 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 64.67% of total time (compiled  440 times, average 0.82 sec, max 1.98 sec, min 0.00 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.79% of total time (compiled  120 times, average 0.27 sec, max 0.38 sec, min 0.15 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.58% of total time (compiled   84 times, average 0.24 sec, max 0.33 sec, min 0.15 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 2.27% of total time (compiled   21 times, average 0.60 sec, max 1.05 sec, min 0.32 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.91% of total time (compiled   19 times, average 0.56 sec, max 0.95 sec, min 0.38 sec)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: === Material stats ===
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Materials Translated:    193
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Material Translation Only: 0.08 s (43%)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: Material Cache Hits: 30 (16%)
+[2026.09.09-01.30.27:561][391]LogShaderCompilers: Display: ================================================
+[2026.09.09-01.30.34:388][910]LogFab: Display: Logging in using persist
+[2026.09.09-01.30.34:596][913]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 5ab...af8 Access[Expires: 2026.09.09-03.30.34 Remaining: 7200.28] Refresh[Expires: 2027-03-07T17:44:13.316Z Remaining: 15524019.32] State: Valid
+[2026.09.09-01.30.34:619][914]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.09.09-01.30.34:724][922]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.09.09-01.30.34:724][922]LogFab: Display: User logged in
+[2026.09.09-01.30.34:724][922]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.09.09-01.31.04:849][455]LogFab: Display: Add listing to project - bb7df0df-a2e7-430f-a382-7c3b121bf767
+[2026.09.09-01.31.04:849][455]LogFab: Display: Listing type - unreal-engine
+[2026.09.09-01.31.04:849][455]LogFab: Display: Base Url https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/FANTASTIcb08ac362e0aV1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/FANTASTIcb08ac362e0aV1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/FANTASTIcb08ac362e0aV1/CloudDir
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/blueprints/BP_ENV_water_ancient.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/demo/Grass_LayerInfo.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/demo/Ground_LayerInfo.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/demo/Stone_LayerInfo.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/effects/PS_FX_fog_blue_ancient.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/effects/PS_FX_fog_white_ancient.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/effects/PS_FX_particles_ancient.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/maps/map_ancient_forest_level_BuiltData.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/maps/map_ancient_forest_overview_BuiltData.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_CLR_floor.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_FX_fog_ancient.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_FX_godray_ancient.uasset
+[2026.09.09-01.31.41:991][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_FX_particles_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_landscape_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_light.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_opaque_PBR_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_Skybox_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_transparent_foliage_wind_nobend_ancient_NEW.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_triplanar.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_water_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/master_materials/M_Master_wood_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/material_functions/MF_FadeAtDistance.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/material_functions/MF_Fog_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/material_functions/MF_TriPlanarProjection.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/material_functions/MF_TriPlanarProjection_Normals.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_CLR_floor.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_foliage_bushes_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_foliage_grass_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_foliage_plants_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_foliage_tree_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_landscape_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_pebbles_branches_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_skybox_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_stone_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_stone_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_stone_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_stone_ancient_04.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_stone_ancient_05.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_stone_ancient_06.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_water_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_wood_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_wood_ancient_2.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_ENV_wood_trunk_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_FX_fog_blue_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_FX_fog_white_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_FX_godrays_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_FX_light.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_FX_particles_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_PROP_column_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_PROP_column_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_PROP_column_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_PROP_column_ancient_04.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_PROP_column_base_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_PROP_deco_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_PROP_deco_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/materials/MI_PROP_head_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_birdnest_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_birdnest_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_birdnest_egg_ancient.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_branch_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_branch_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_branch_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_bush_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_bush_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_bush_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_bush_ancient_04.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_bush_ancient_05.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_01_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_01_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_04.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_05.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_06_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_06_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_07_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_07_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_07_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_flower_ancient_08.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_grass_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_grass_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_mushrooms_ancient_01_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_mushrooms_ancient_01_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_mushrooms_ancient_01_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_mushrooms_ancient_02_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_mushrooms_ancient_02_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_mushrooms_ancient_03_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_mushrooms_ancient_03_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_mushrooms_ancient_03_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_pebbles_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_pebbles_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_pebbles_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_01_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_01_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_01_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_02_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_02_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_03_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_03_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_04_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_04_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_04_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_05.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_06.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_07.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_08.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_09_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_09_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_09_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_10.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_11.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_12_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_12_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_13_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_13_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_14_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_14_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_15_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_15_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_16.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_17_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_17_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_17_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_18_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_18_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_19_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_plant_ancient_19_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_stone_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_stone_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_stone_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_stone_ancient_04.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_stone_ancient_05.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_stone_ancient_06.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_tree_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_tree_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_tree_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treeroot_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treeroot_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treeroot_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treeroot_ancient_04.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treeroot_ancient_05.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treetrunk_ancient_01.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treetrunk_ancient_02.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treetrunk_ancient_03.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treetrunk_ancient_04.uasset
+[2026.09.09-01.31.41:992][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_ENV_treetrunk_ancient_05.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_FX_godray_ancient.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_brazier_01.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_brazier_02.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_column_ancient_01.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_column_ancient_02.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_column_ancient_03.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_column_ancient_04.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_column_base_ancient_01.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_head_ancient.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_pot_01.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/meshes/SM_PROP_pot_02.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/settings/MPC_fog_ancient.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/settings/MPC_wind_ancient.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_grass_ancient_BC.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_grass_ancient_N.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_grass_ancient_PBR.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_ground_ancient_BC.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_ground_ancient_N.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_ground_ancient_PBR.uasset
+[2026.09.09-01.31.41:993][303]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_moss_ancient_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_moss_ancient_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_moss_ancient_PBR.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_plants_ancient_01_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_plants_ancient_01_E.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_skybox_ancient.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_01_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_02_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_03_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_04_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_05_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_06_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_stone_ancient_PBR.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_tree_leaves_ancient.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_ancient_01_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_ancient_01_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_ancient_01_PBR.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_ancient_02_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_ancient_02_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_ancient_02_PBR.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_stone_ancient_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_stone_ancient_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_ENV_wood_stone_ancient_PBR.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_FX_clouds_ancient.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_FX_fog_ancient.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_FX_godray_mask_ancient.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_FX_light_cookie_ancient.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_FX_noise_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_FX_water_ancient_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_FX_water_mask_ancient.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_column_ancient_01_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_column_ancient_02_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_column_ancient_03_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_column_ancient_04_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_column_ancient_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_column_ancient_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_column_ancient_PBR.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_column_base_Ancient_01_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_deco_ancient_01_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_deco_ancient_01_PBR.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_deco_ancient_02_BC.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_deco_ancient_02_PBR.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantastic_Ancient_Forest/textures/T_PROP_head_ancient_N.uasset
+[2026.09.09-01.31.41:993][304]LogFab: Display: Scanning 210 assets for plugin dependencies...
+
+[2026.09.09-01.31.46:436][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.09.09-01.31.49:516][615]LogSlate: Window 'Save Content' being destroyed
+[2026.09.09-01.31.49:529][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.31.49:584][615]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/0/BM/27GUP263QX3269J3W8N42D
+[2026.09.09-01.31.49:594][615]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/0/BM/27GUP263QX3269J3W8N42D
+[2026.09.09-01.31.49:594][615]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/27GUP263QX3269J3W8N42D83E37664408AE0AA61957C9875D675C8.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/0/BM/27GUP263QX3269J3W8N42D.uasset'
+[2026.09.09-01.31.49:596][615]LogFileHelpers: Saving Package: /Game/SM_crystal_sharpen_01_FoliageType
+[2026.09.09-01.31.49:596][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_crystal_sharpen_01_FoliageType] ([1] browsable assets)...
+[2026.09.09-01.31.49:661][615]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/SM_crystal_sharpen_01_FoliageType.SM_crystal_sharpen_01_FoliageType]
+[2026.09.09-01.31.49:661][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_crystal_sharpen_01_FoliageType]
+[2026.09.09-01.31.49:670][615]LogSavePackage: Moving output files for package: /Game/SM_crystal_sharpen_01_FoliageType
+[2026.09.09-01.31.49:672][615]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SM_crystal_sharpen_01_FoliageTyp2D6DB5BF471C91E1EDDA40B5371E8092.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/SM_crystal_sharpen_01_FoliageType.uasset'
+[2026.09.09-01.31.49:673][615]LogFileHelpers: Saving Package: /Game/SM_crystal_sharpen_02_FoliageType
+[2026.09.09-01.31.49:673][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_crystal_sharpen_02_FoliageType] ([1] browsable assets)...
+[2026.09.09-01.31.49:684][615]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/SM_crystal_sharpen_02_FoliageType.SM_crystal_sharpen_02_FoliageType]
+[2026.09.09-01.31.49:684][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_crystal_sharpen_02_FoliageType]
+[2026.09.09-01.31.49:694][615]LogSavePackage: Moving output files for package: /Game/SM_crystal_sharpen_02_FoliageType
+[2026.09.09-01.31.49:695][615]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SM_crystal_sharpen_02_FoliageTypB2DA678F4D2D9F1F816DDBBBFAB2FD7E.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/SM_crystal_sharpen_02_FoliageType.uasset'
+[2026.09.09-01.31.49:696][615]LogFileHelpers: Saving Package: /Game/SM_crystal_sharpen_03_FoliageType
+[2026.09.09-01.31.49:697][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_crystal_sharpen_03_FoliageType] ([1] browsable assets)...
+[2026.09.09-01.31.49:706][615]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/SM_crystal_sharpen_03_FoliageType.SM_crystal_sharpen_03_FoliageType]
+[2026.09.09-01.31.49:706][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_crystal_sharpen_03_FoliageType]
+[2026.09.09-01.31.49:716][615]LogSavePackage: Moving output files for package: /Game/SM_crystal_sharpen_03_FoliageType
+[2026.09.09-01.31.49:717][615]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SM_crystal_sharpen_03_FoliageTypBD7D5D8742070CD4DB489B8D8685949E.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/SM_crystal_sharpen_03_FoliageType.uasset'
+[2026.09.09-01.31.49:732][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 203.235 ms (total: 21.1 sec)
+[2026.09.09-01.31.49:797][615]LogContentValidation: Enabled validators:
+[2026.09.09-01.31.49:797][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.31.49:797][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.31.49:798][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.31.49:798][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.31.49:798][615]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.31.49:798][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.31.49:798][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.31.49:798][615]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.31.49:798][615]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.31.49:798][615]LogContentValidation: Display: Starting to validate 4 assets (1 associated objects such as actors)
+[2026.09.09-01.31.49:798][615]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.09-01.31.49:798][615]AssetCheck: /Game/Maps/Level1 Validating asset
+[2026.09.09-01.31.49:798][615]AssetCheck: /Game/SM_crystal_sharpen_01_FoliageType Validating asset
+[2026.09.09-01.31.49:798][615]AssetCheck: /Game/SM_crystal_sharpen_02_FoliageType Validating asset
+[2026.09.09-01.31.49:798][615]AssetCheck: /Game/SM_crystal_sharpen_03_FoliageType Validating asset
+[2026.09.09-01.31.49:798][615]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 4
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.31.49:798][615]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.31.49:836][615]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
