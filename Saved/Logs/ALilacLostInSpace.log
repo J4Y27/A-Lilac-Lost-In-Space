@@ -2208,3 +2208,82 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.09-00.16.08:127][636]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Alien_Cave_biome/Textures/T_sand_AORM.uasset
 [2026.09.09-00.16.08:127][636]LogFab: Display: Scanning 76 assets for plugin dependencies...
 
+[2026.09.09-00.17.21:490][621]LogFab: Display: Add listing to project - 4eb09414-0692-4073-ae72-687204653a9e
+[2026.09.09-00.17.21:491][621]LogFab: Display: Listing type - unreal-engine
+[2026.09.09-00.17.21:491][621]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/CrystalC0d4968ed1b5fV1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/CrystalC0d4968ed1b5fV1/CloudDir,https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/CrystalC0d4968ed1b5fV1/CloudDir
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Blueprint/BP_water.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/FX/NS_particle.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Level/L_assets_BuiltData.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/Master/M_crystal.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/Master/M_Master_kit_detail.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/Master/M_Master_kit_POM.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/Master/M_SpriteMaterial.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/Master/M_water.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/MI_crystal.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/MI_crystal_02.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/MI_rock_01.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/MI_stalactic.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/MI_stone.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/MI_trim_POM.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Material/MI_water.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_01.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_02.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_03.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_04.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_05.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystals/SM_crystal_01.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystals/SM_crystal_02.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystals/SM_crystal_03.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystals/SM_crystal_04.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystals/SM_crystal_05.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Crystals/SM_crystal_06.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_column_01.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_column_02.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_column_base.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_module_01.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_module_02.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_module_03.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_module_04.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_module_05.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_module_top.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Modules/SM_moudle_top_02.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_0.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_01.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_02.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Stalactic/SM_stalactic_01.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Stalactic/SM_stalactic_02.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Stalactic/SM_stalactic_03.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Stalactic/SM_stalactic_04.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Stalactic/SM_stalactic_05.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Stalactic/SM_stalactic_06.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Meshes/Stalactic/SM_stalactic_07.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_02_rgb.uasset
+[2026.09.09-00.17.44:771][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_02_rgb_N.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_mask.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_mask_02.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_mask_03.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_rgb.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_rgb_N.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystals_AORM.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystals_N.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_default_texture/T_Black.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_default_texture/T_default_normal.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_Mask/T_grunge_mask.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_Mask/T_white.uasset
+[2026.09.09-00.17.44:772][440]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_normals/T_detail_N.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_rock/T_rock_AORM.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_rock/T_rock_D.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_rock/T_rock_N.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_stalactic/T_stalactic_AORM.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_stalactic/T_stalactic_D.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_stalactic/T_stalactic_N.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_stone/T_stone_AORM.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_stone/T_stone_D.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_stone/T_stone_N.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_trim_01/T_trim_crystal_cave_AORM.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_trim_01/T_trim_crystal_cave_D.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_trim_01/T_trim_crystal_cave_H.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_trim_01/T_trim_crystal_cave_N.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Fantasy_Crystal_Cave/Textures/T_water/T_wave_N.uasset
+[2026.09.09-00.17.44:772][441]LogFab: Display: Scanning 74 assets for plugin dependencies...
+
