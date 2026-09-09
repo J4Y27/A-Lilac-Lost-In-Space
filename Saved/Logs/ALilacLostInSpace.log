@@ -3411,3 +3411,589 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 
 [2026.09.09-01.14.22:796][841]LogSlate: Window 'Content Browser' being destroyed
 [2026.09.09-01.14.22:804][841]LogSlate: Window 'Content Browser' being destroyed
+[2026.09.09-01.15.17:692][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2026.09.09-01.15.27:266][694]LogShaderCompilers: Display: ================================================
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Total job queries 2,411, among them cache hits 63 (2.61%), DDC hits 399 (16.55%), Duplicates 671 (27.83%)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Tracking 1,677 distinct input hashes that result in 1,082 distinct outputs (64.52%)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: RAM used: 11.94 MiB of 1.60 GiB budget. Usage: 0.73%
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Shaders Compiled: 1,278
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Jobs assigned 1,278, completed 1,278 (100%)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Average time worker was idle: 2.51 s
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Time job spent in pending queue: average 34.09 s, longest 75.79 s
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 2.45 s
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Job life time (pending + execution): average 34.61 s, max 76.15
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Shader code size: total 16.617 MiB, numShaders 1,301, average 13.079 KiB, min 1.199 KiB, max 38.121 KiB
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.03 s
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Jobs were issued in 1,273 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Average processing rate: 14.69 jobs/sec
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Total thread time: 557.527 s
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Total thread preprocess time: 45.729 s
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Percentage time preprocessing: 8.20%
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Effective parallelization: 6.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.800810
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.41 sec, max 1.89 sec, min 0.90 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 0.93 sec, max 1.32 sec, min 0.68 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  440 times, average 0.82 sec, max 1.98 sec, min 0.00 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   20 times, average 0.60 sec, max 1.05 sec, min 0.32 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   16 times, average 0.58 sec, max 1.05 sec, min 0.35 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 64.83% of total time (compiled  440 times, average 0.82 sec, max 1.98 sec, min 0.00 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.80% of total time (compiled  120 times, average 0.27 sec, max 0.38 sec, min 0.15 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.59% of total time (compiled   84 times, average 0.24 sec, max 0.33 sec, min 0.15 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 2.17% of total time (compiled   20 times, average 0.60 sec, max 1.05 sec, min 0.32 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.91% of total time (compiled   19 times, average 0.56 sec, max 0.95 sec, min 0.38 sec)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: === Material stats ===
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Materials Translated:    191
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Material Translation Only: 0.08 s (43%)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: Material Cache Hits: 30 (16%)
+[2026.09.09-01.15.27:267][694]LogShaderCompilers: Display: ================================================
+[2026.09.09-01.16.05:660][576]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Foliage" Editor Mode requires the legacy systems.
+[2026.09.09-01.16.16:060][620]LogInteractiveToolsContext: Display: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2026.09.09-01.16.16:060][620]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Mesh Paint" Editor Mode requires the legacy systems.
+[2026.09.09-01.17.40:583][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1039.953613
+[2026.09.09-01.17.40:678][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.09-01.17.40:679][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1040.035767, Update Interval: 346.973480
+[2026.09.09-01.17.46:225][796]LogSlate: Window 'Login' being destroyed
+[2026.09.09-01.17.46:573][813]LogSlate: Window 'Login' being destroyed
+[2026.09.09-01.17.51:860][240]LogWindows: LaunchURL https://www.epicgames.com/site/en-US/tos
+[2026.09.09-01.18.18:298][870]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2026.09.09-01.18.31:672][843]LogSlate: Window 'Message' being destroyed
+[2026.09.09-01.18.31:681][843]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to delete this layer?
+[2026.09.09-01.18.39:378][416]LogSlate: Window 'Bridge' being destroyed
+[2026.09.09-01.18.39:388][416]LogSlate: Window 'Bridge' being destroyed
+[2026.09.09-01.18.39:388][416]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.8/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/.
+[2026.09.09-01.19.08:252][755]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=54fbf32a00ca478098c87d71905ab6b5.
+[2026.09.09-01.19.08:280][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.09.09-01.19.08:294][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/7/PL/AA07YTAPRD2VPA38ME7SNY_Auto1
+[2026.09.09-01.19.08:294][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/AA07YTAPRD2VPA38ME7SNY_Auto1532E549F4D5E22A07B3322B62689634D.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/7/PL/AA07YTAPRD2VPA38ME7SNY_Auto1.uasset'
+[2026.09.09-01.19.08:321][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/4/1U/L8SUMI3TT3P3IL4VCSGKFX_Auto1
+[2026.09.09-01.19.08:321][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/L8SUMI3TT3P3IL4VCSGKFX_Auto1C4BC5A5846E37E886B1CBA9CD453265D.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/4/1U/L8SUMI3TT3P3IL4VCSGKFX_Auto1.uasset'
+[2026.09.09-01.19.08:341][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P_Auto1
+[2026.09.09-01.19.08:341][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/LKH9QHIITTO24U8SBTKP8P_Auto130D87696414254A6DCBA07974856F7F4.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P_Auto1.uasset'
+[2026.09.09-01.19.08:363][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX_Auto1
+[2026.09.09-01.19.08:363][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/2SDR2YPQCWWJRDEB36XEDX_Auto12C7A549A41FD4202CEFCF7AEBB12A88F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX_Auto1.uasset'
+[2026.09.09-01.19.08:388][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/C/P8/MXM6ALOGSY3GQOJLZWPSRU_Auto1
+[2026.09.09-01.19.08:388][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/MXM6ALOGSY3GQOJLZWPSRU_Auto1879256E647FF5EC408CC0B9F1A403614.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/C/P8/MXM6ALOGSY3GQOJLZWPSRU_Auto1.uasset'
+[2026.09.09-01.19.08:418][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/8/Y1/J1Z2DMV837PXGPVYJCG3RC_Auto1
+[2026.09.09-01.19.08:418][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/J1Z2DMV837PXGPVYJCG3RC_Auto1BAED9F5D4FCF3819C8C5DA9FBBBB7B47.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/8/Y1/J1Z2DMV837PXGPVYJCG3RC_Auto1.uasset'
+[2026.09.09-01.19.08:443][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/8/VM/66BUT79KBD3P7891ERYWLR_Auto1
+[2026.09.09-01.19.08:443][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/66BUT79KBD3P7891ERYWLR_Auto1E5131B244E4AB185A43CCCA6398BD1D7.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/8/VM/66BUT79KBD3P7891ERYWLR_Auto1.uasset'
+[2026.09.09-01.19.08:462][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU_Auto1
+[2026.09.09-01.19.08:462][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/4HFJV4XS0UB98RPNRHQOTU_Auto154C8F63B4C15F8E2A194D69FB22E5F5C.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU_Auto1.uasset'
+[2026.09.09-01.19.08:509][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/8G/1YD75MJQCUXSSPAFOAANFS_Auto1
+[2026.09.09-01.19.08:509][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/1YD75MJQCUXSSPAFOAANFS_Auto14C2FDDAB47952BA3A2CE408ED945EE44.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/8G/1YD75MJQCUXSSPAFOAANFS_Auto1.uasset'
+[2026.09.09-01.19.08:529][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/L7/VBL5RX2G5TDQWH6L26BHK6_Auto1
+[2026.09.09-01.19.08:529][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/VBL5RX2G5TDQWH6L26BHK6_Auto19E4F8265412FFB314B47F98D65FF4C82.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/L7/VBL5RX2G5TDQWH6L26BHK6_Auto1.uasset'
+[2026.09.09-01.19.08:564][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/TF/XSDBRWRN0NPJKD58DPBYHY_Auto1
+[2026.09.09-01.19.08:564][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/XSDBRWRN0NPJKD58DPBYHY_Auto19E59EF0A4A4B2310071FEDB255D8ECD9.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/TF/XSDBRWRN0NPJKD58DPBYHY_Auto1.uasset'
+[2026.09.09-01.19.08:588][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/E/PG/Q48I0SUOO9KP28TGBZ7PNI_Auto1
+[2026.09.09-01.19.08:588][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Q48I0SUOO9KP28TGBZ7PNI_Auto1BCEB6A3E417F39FEB043B993401ADA3E.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/E/PG/Q48I0SUOO9KP28TGBZ7PNI_Auto1.uasset'
+[2026.09.09-01.19.08:614][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/2/SX/LY1H9CATFW16IC11EB9LDR_Auto1
+[2026.09.09-01.19.08:614][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/LY1H9CATFW16IC11EB9LDR_Auto186EBDD7F43DD08D4F0C9C7865A2A1AEE.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/2/SX/LY1H9CATFW16IC11EB9LDR_Auto1.uasset'
+[2026.09.09-01.19.08:651][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/38/J5KP7ADZUAR9AYH8IRG7N9_Auto1
+[2026.09.09-01.19.08:651][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/J5KP7ADZUAR9AYH8IRG7N9_Auto10F7341044A81395A8BC17D8869BE973E.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/38/J5KP7ADZUAR9AYH8IRG7N9_Auto1.uasset'
+[2026.09.09-01.19.08:676][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/E/KB/ZYT8PC5VHDFYWQALPG5CF4_Auto1
+[2026.09.09-01.19.08:676][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/ZYT8PC5VHDFYWQALPG5CF4_Auto18EDFCC724681B933D394C7A0A0C7B131.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/E/KB/ZYT8PC5VHDFYWQALPG5CF4_Auto1.uasset'
+[2026.09.09-01.19.08:701][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/1/P7/UAQUTU6YGC3C32JHMS33OW_Auto1
+[2026.09.09-01.19.08:701][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/UAQUTU6YGC3C32JHMS33OW_Auto1D107188447E8FF35D3CBD2B6BA262C90.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/1/P7/UAQUTU6YGC3C32JHMS33OW_Auto1.uasset'
+[2026.09.09-01.19.08:726][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/EE/1J8BCPN6S2PAR5L7914RQ2_Auto1
+[2026.09.09-01.19.08:727][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/1J8BCPN6S2PAR5L7914RQ2_Auto1C1664CFB4DDB92F854EFCF9C658A61D3.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/EE/1J8BCPN6S2PAR5L7914RQ2_Auto1.uasset'
+[2026.09.09-01.19.08:753][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/2/5A/X97LX5VAOES60IK9LP1GO6_Auto1
+[2026.09.09-01.19.08:753][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/X97LX5VAOES60IK9LP1GO6_Auto126136AB440B110CB2656F8844FBAE6FD.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/2/5A/X97LX5VAOES60IK9LP1GO6_Auto1.uasset'
+[2026.09.09-01.19.08:779][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/XD/39S8U3BA750LSONG40LDYP_Auto1
+[2026.09.09-01.19.08:779][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/39S8U3BA750LSONG40LDYP_Auto128C31B374658D42026E1988A48E17C1A.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/XD/39S8U3BA750LSONG40LDYP_Auto1.uasset'
+[2026.09.09-01.19.08:804][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/TG/E8W04N1NMT5QL9HYQ93V4P_Auto1
+[2026.09.09-01.19.08:804][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/E8W04N1NMT5QL9HYQ93V4P_Auto101382AC045136E6DE744BB8D3B2ACB53.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/TG/E8W04N1NMT5QL9HYQ93V4P_Auto1.uasset'
+[2026.09.09-01.19.08:828][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/0/U0/GF1AWZB5LWJP9EMDI5PJ80_Auto1
+[2026.09.09-01.19.08:829][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/GF1AWZB5LWJP9EMDI5PJ80_Auto12939AAFB436408A4787CE6B45E5A558B.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/0/U0/GF1AWZB5LWJP9EMDI5PJ80_Auto1.uasset'
+[2026.09.09-01.19.08:854][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/5/PG/R9AADAL6I8B7IK1YAC7V8Q_Auto1
+[2026.09.09-01.19.08:856][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/R9AADAL6I8B7IK1YAC7V8Q_Auto112F41F054A5150288DFDC2B968996CE6.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/5/PG/R9AADAL6I8B7IK1YAC7V8Q_Auto1.uasset'
+[2026.09.09-01.19.08:883][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/5/7N/TEFOQ8MAR2CCKZQ05YI72C_Auto1
+[2026.09.09-01.19.08:883][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/TEFOQ8MAR2CCKZQ05YI72C_Auto1B2CFCAEC48578B35EC73E0BA8F1D7024.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/5/7N/TEFOQ8MAR2CCKZQ05YI72C_Auto1.uasset'
+[2026.09.09-01.19.08:908][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/EW/2BSAJS93NL2I8Q7KZ3PZOU_Auto1
+[2026.09.09-01.19.08:908][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/2BSAJS93NL2I8Q7KZ3PZOU_Auto1676C11F149B35B184C3EC3BC7B6623F0.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/EW/2BSAJS93NL2I8Q7KZ3PZOU_Auto1.uasset'
+[2026.09.09-01.19.08:933][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/5/ZH/9UG1L296JHHEFBE653MSHS_Auto1
+[2026.09.09-01.19.08:933][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/9UG1L296JHHEFBE653MSHS_Auto107ACE9C543A3E6E12CA67799E6CB1F6F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/5/ZH/9UG1L296JHHEFBE653MSHS_Auto1.uasset'
+[2026.09.09-01.19.08:959][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/A/J7/JXHY10IX6QMYZV21WHNXBM_Auto1
+[2026.09.09-01.19.08:959][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/JXHY10IX6QMYZV21WHNXBM_Auto1F1FD84294682D27ACEDEFCB99C420975.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/A/J7/JXHY10IX6QMYZV21WHNXBM_Auto1.uasset'
+[2026.09.09-01.19.08:983][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/1/6H/HY9B9L1R0FWK5Q68T4O2KC_Auto1
+[2026.09.09-01.19.08:984][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/HY9B9L1R0FWK5Q68T4O2KC_Auto144D752B44D330E793FBF5DAAA9A57144.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/1/6H/HY9B9L1R0FWK5Q68T4O2KC_Auto1.uasset'
+[2026.09.09-01.19.09:010][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/DY/9DJK7HDBFE3J2EP08JX7NB_Auto1
+[2026.09.09-01.19.09:010][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/9DJK7HDBFE3J2EP08JX7NB_Auto10F4EE04F41CC7D6BD227848F135007C6.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/DY/9DJK7HDBFE3J2EP08JX7NB_Auto1.uasset'
+[2026.09.09-01.19.09:034][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/6V/0L2EXU927B5FVGF0XCV1N0_Auto1
+[2026.09.09-01.19.09:034][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/0L2EXU927B5FVGF0XCV1N0_Auto179E2EF254C3D16156A06C6B3EB53A340.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/6V/0L2EXU927B5FVGF0XCV1N0_Auto1.uasset'
+[2026.09.09-01.19.09:058][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/C/WT/GCAL3KJV6SISWE6UQTPULZ_Auto1
+[2026.09.09-01.19.09:058][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/GCAL3KJV6SISWE6UQTPULZ_Auto1E6FE79044EA06DBC50F0579B48B80204.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/C/WT/GCAL3KJV6SISWE6UQTPULZ_Auto1.uasset'
+[2026.09.09-01.19.09:084][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/C/0Z/W7EXQAQI61GKI7U6QVXZK3_Auto1
+[2026.09.09-01.19.09:084][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/W7EXQAQI61GKI7U6QVXZK3_Auto1F20A992543159864B41FC1995EB73A9B.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/C/0Z/W7EXQAQI61GKI7U6QVXZK3_Auto1.uasset'
+[2026.09.09-01.19.09:112][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/A/PN/XZOPBKFF3BNAD65NVJ7F6K_Auto1
+[2026.09.09-01.19.09:113][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/XZOPBKFF3BNAD65NVJ7F6K_Auto1598E91954AD5FD11919CD28F1B50326D.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/A/PN/XZOPBKFF3BNAD65NVJ7F6K_Auto1.uasset'
+[2026.09.09-01.19.09:139][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/2/GZ/7YXL2YH89GXIX96MVVWHUP_Auto1
+[2026.09.09-01.19.09:139][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/7YXL2YH89GXIX96MVVWHUP_Auto1EBF32B704C19EB0646117B89DE4B08B9.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/2/GZ/7YXL2YH89GXIX96MVVWHUP_Auto1.uasset'
+[2026.09.09-01.19.09:166][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/CV/IGE2JTDZMW123TPCSEFSV3_Auto1
+[2026.09.09-01.19.09:166][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/IGE2JTDZMW123TPCSEFSV3_Auto1DE6C43C649EE114DA352ADB64D188A9A.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/CV/IGE2JTDZMW123TPCSEFSV3_Auto1.uasset'
+[2026.09.09-01.19.09:192][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/0V/6EFDIKOQ4FW3JSPUNGU7AG_Auto1
+[2026.09.09-01.19.09:192][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/6EFDIKOQ4FW3JSPUNGU7AG_Auto132BA6CB04D787E19690E62B46A56568A.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/0V/6EFDIKOQ4FW3JSPUNGU7AG_Auto1.uasset'
+[2026.09.09-01.19.09:226][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/E/2R/D1JKG9264SGNQMHWCH7X5U_Auto1
+[2026.09.09-01.19.09:226][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/D1JKG9264SGNQMHWCH7X5U_Auto1C048BE0F4CE275BE1B70AB8FD56B9248.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/E/2R/D1JKG9264SGNQMHWCH7X5U_Auto1.uasset'
+[2026.09.09-01.19.09:270][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/3/XE/EQI2T54FNLI0FSPJ1ZRB33_Auto1
+[2026.09.09-01.19.09:270][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/EQI2T54FNLI0FSPJ1ZRB33_Auto1579D0B354B83BEBE0796A38C3D6B6FC7.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/3/XE/EQI2T54FNLI0FSPJ1ZRB33_Auto1.uasset'
+[2026.09.09-01.19.09:296][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/9W/LPKES9MNNV6MSSMCARXR2D_Auto1
+[2026.09.09-01.19.09:296][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/LPKES9MNNV6MSSMCARXR2D_Auto146849C2948202CE10AB2658B25E9BF8F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/9W/LPKES9MNNV6MSSMCARXR2D_Auto1.uasset'
+[2026.09.09-01.19.09:321][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/0/E4/ZQ038IJ4YRE1FJM08US3MF_Auto1
+[2026.09.09-01.19.09:321][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/ZQ038IJ4YRE1FJM08US3MF_Auto1BC207AFA4F44D828A82FEB9C102F7525.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/0/E4/ZQ038IJ4YRE1FJM08US3MF_Auto1.uasset'
+[2026.09.09-01.19.09:347][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/PE/W7ZE2C8GTX9FZT2I3CGXB4_Auto1
+[2026.09.09-01.19.09:347][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/W7ZE2C8GTX9FZT2I3CGXB4_Auto180E5D7954BECBD5F82CDC28E4848BA38.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/PE/W7ZE2C8GTX9FZT2I3CGXB4_Auto1.uasset'
+[2026.09.09-01.19.09:376][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/RU/U34K3I3FY8I1WP8J0ENKJS_Auto1
+[2026.09.09-01.19.09:377][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/U34K3I3FY8I1WP8J0ENKJS_Auto1FB6524BE4ECCC7CB24720095F8C07D9C.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/RU/U34K3I3FY8I1WP8J0ENKJS_Auto1.uasset'
+[2026.09.09-01.19.09:401][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/8/MS/YAZSP2PDH8W0AALV4RG7UK_Auto1
+[2026.09.09-01.19.09:402][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/YAZSP2PDH8W0AALV4RG7UK_Auto10AF52C784556A2C6C9CAEBBF2622D464.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/8/MS/YAZSP2PDH8W0AALV4RG7UK_Auto1.uasset'
+[2026.09.09-01.19.09:427][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/4/ON/GAF1LWS9YXKNJ4UCLAVZFW_Auto1
+[2026.09.09-01.19.09:427][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/GAF1LWS9YXKNJ4UCLAVZFW_Auto1926C6AFA4A642414207408B143895B49.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/4/ON/GAF1LWS9YXKNJ4UCLAVZFW_Auto1.uasset'
+[2026.09.09-01.19.09:452][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/2H/UI1O6O5WRUDZVNMT8KSQGE_Auto1
+[2026.09.09-01.19.09:452][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/UI1O6O5WRUDZVNMT8KSQGE_Auto152AD9EFD4DD13801AC5EF78A4AA41595.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/2H/UI1O6O5WRUDZVNMT8KSQGE_Auto1.uasset'
+[2026.09.09-01.19.09:477][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/18/9TKFCNS4O2AW91AMZMYIVB_Auto1
+[2026.09.09-01.19.09:477][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/9TKFCNS4O2AW91AMZMYIVB_Auto1D4007F784AE2260878EEE2A0270BC2B6.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/18/9TKFCNS4O2AW91AMZMYIVB_Auto1.uasset'
+[2026.09.09-01.19.09:500][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/A/N6/874YTVBNPEFAWLL212KJWM_Auto1
+[2026.09.09-01.19.09:500][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/874YTVBNPEFAWLL212KJWM_Auto1C8BB61CF4FA8A6DABC63519CBD356A75.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/A/N6/874YTVBNPEFAWLL212KJWM_Auto1.uasset'
+[2026.09.09-01.19.09:524][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/GY/I1BPSZK72EH0HY4DET6X4O_Auto1
+[2026.09.09-01.19.09:524][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/I1BPSZK72EH0HY4DET6X4O_Auto1BAF427AB47F053FD33BA858D7286586B.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/GY/I1BPSZK72EH0HY4DET6X4O_Auto1.uasset'
+[2026.09.09-01.19.09:570][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/E/S8/L01GJ5GWUTRSP5JU5GG4GV_Auto1
+[2026.09.09-01.19.09:570][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/L01GJ5GWUTRSP5JU5GG4GV_Auto18034D3A34B0D659CFE20FEA1790EA9E6.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/E/S8/L01GJ5GWUTRSP5JU5GG4GV_Auto1.uasset'
+[2026.09.09-01.19.09:628][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/6/OG/KLBB5HM3MPMQJD00FQLPVC_Auto1
+[2026.09.09-01.19.09:628][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/KLBB5HM3MPMQJD00FQLPVC_Auto1CE58E42B4BF5D92CA17D42B9BB840880.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/6/OG/KLBB5HM3MPMQJD00FQLPVC_Auto1.uasset'
+[2026.09.09-01.19.09:653][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/3/3C/BB4RZ7ZIB9QLISJ94UFNCW_Auto1
+[2026.09.09-01.19.09:653][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/BB4RZ7ZIB9QLISJ94UFNCW_Auto1ECA5D0054C67AAAEEBAC06AE4F0DC66C.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/3/3C/BB4RZ7ZIB9QLISJ94UFNCW_Auto1.uasset'
+[2026.09.09-01.19.09:702][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/6/Z4/MW27RGTD3OKQTTU0EKJDT5_Auto1
+[2026.09.09-01.19.09:702][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/MW27RGTD3OKQTTU0EKJDT5_Auto14FB1E1644BABE526C8421CB7ECE1D1AF.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/6/Z4/MW27RGTD3OKQTTU0EKJDT5_Auto1.uasset'
+[2026.09.09-01.19.09:738][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/C/D0/5WC7JIMI20K70CFXP3CEFX_Auto1
+[2026.09.09-01.19.09:738][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/5WC7JIMI20K70CFXP3CEFX_Auto1D44B6BA443683D08C584559EDE2B970A.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/C/D0/5WC7JIMI20K70CFXP3CEFX_Auto1.uasset'
+[2026.09.09-01.19.09:778][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/E/JG/6Y81THB3WSSMJ73W9BO1D1_Auto1
+[2026.09.09-01.19.09:778][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/6Y81THB3WSSMJ73W9BO1D1_Auto17030CFB241C4E29439480DBAF75387C2.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/E/JG/6Y81THB3WSSMJ73W9BO1D1_Auto1.uasset'
+[2026.09.09-01.19.09:811][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/G5/TY3PFW8OX495L2QQQ96GZA_Auto1
+[2026.09.09-01.19.09:811][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/TY3PFW8OX495L2QQQ96GZA_Auto11275EADE48F9CD25B59CC1AE1B3E042B.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/G5/TY3PFW8OX495L2QQQ96GZA_Auto1.uasset'
+[2026.09.09-01.19.09:842][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/K6/1579WNSDER1DPNH9NHAFA8_Auto1
+[2026.09.09-01.19.09:842][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/1579WNSDER1DPNH9NHAFA8_Auto1DCAE3BF74B65171E398939A84B7DAD23.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/K6/1579WNSDER1DPNH9NHAFA8_Auto1.uasset'
+[2026.09.09-01.19.09:876][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/SO/J3Q760VC9JKX8OFF2HG6SD_Auto1
+[2026.09.09-01.19.09:876][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/J3Q760VC9JKX8OFF2HG6SD_Auto1D4BEC1024AAEC8E99DDBE388E3A0B14C.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/SO/J3Q760VC9JKX8OFF2HG6SD_Auto1.uasset'
+[2026.09.09-01.19.09:906][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/C/54/KH8HOV60KT0C4MRWR12E3W_Auto1
+[2026.09.09-01.19.09:906][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/KH8HOV60KT0C4MRWR12E3W_Auto19AB7D9974D126B2E7A31CBA36EE7E27F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/C/54/KH8HOV60KT0C4MRWR12E3W_Auto1.uasset'
+[2026.09.09-01.19.09:936][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/E/AK/XX9O6ORDAGP6CR2O77WLQR_Auto1
+[2026.09.09-01.19.09:936][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/XX9O6ORDAGP6CR2O77WLQR_Auto158F6CAB346179F16ACD6A9AE5BEE38FF.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/E/AK/XX9O6ORDAGP6CR2O77WLQR_Auto1.uasset'
+[2026.09.09-01.19.09:968][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/8/T2/8H5S5D9YSIAQQX88ZU7FXI_Auto1
+[2026.09.09-01.19.09:968][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/8H5S5D9YSIAQQX88ZU7FXI_Auto1E5B59E6440288E2BF324098BF427C86E.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/8/T2/8H5S5D9YSIAQQX88ZU7FXI_Auto1.uasset'
+[2026.09.09-01.19.09:996][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/6/JR/T4IP8HQOZ2ZHQ7JS0BX3LH_Auto1
+[2026.09.09-01.19.09:996][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/T4IP8HQOZ2ZHQ7JS0BX3LH_Auto11123FA10425510F1AC846BA4DCE45D6E.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/6/JR/T4IP8HQOZ2ZHQ7JS0BX3LH_Auto1.uasset'
+[2026.09.09-01.19.10:026][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/B/OQ/XFMJKI6MJU905PE5T33EE2_Auto1
+[2026.09.09-01.19.10:027][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/XFMJKI6MJU905PE5T33EE2_Auto11E97F6D54EFF4C8D56D8C5B7F3D255EA.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/B/OQ/XFMJKI6MJU905PE5T33EE2_Auto1.uasset'
+[2026.09.09-01.19.10:054][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/YU/KS466K3WQFRPZCSJLGJO16_Auto1
+[2026.09.09-01.19.10:054][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/KS466K3WQFRPZCSJLGJO16_Auto1A7BCDD454EB933B90B9E8A9C07D53916.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/YU/KS466K3WQFRPZCSJLGJO16_Auto1.uasset'
+[2026.09.09-01.19.10:082][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/4/9B/QDUNMDIL12XKBON5WL652L_Auto1
+[2026.09.09-01.19.10:082][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/QDUNMDIL12XKBON5WL652L_Auto1C5B565164834AD131A4245BD72C44EBC.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/4/9B/QDUNMDIL12XKBON5WL652L_Auto1.uasset'
+[2026.09.09-01.19.10:109][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/3/3Y/EOU7H2P2799J1U10Z70XIX_Auto1
+[2026.09.09-01.19.10:109][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/EOU7H2P2799J1U10Z70XIX_Auto1B74E505E4A9CB813BE210AB788561CA7.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/3/3Y/EOU7H2P2799J1U10Z70XIX_Auto1.uasset'
+[2026.09.09-01.19.10:138][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/9C/W9QMK177OGR81HN81EUAIH_Auto1
+[2026.09.09-01.19.10:138][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/W9QMK177OGR81HN81EUAIH_Auto1DD0A3DEF4DA2D61EBD05048D493B4499.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/9C/W9QMK177OGR81HN81EUAIH_Auto1.uasset'
+[2026.09.09-01.19.10:139][755]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 2.003
+[2026.09.09-01.19.10:139][755]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.003
+[2026.09.09-01.19.10:139][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Level1_sharedassets/Layer_1_LayerInfo] ([1] browsable assets)...
+[2026.09.09-01.19.10:140][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Level1_sharedassets/Layer_1_LayerInfo]
+[2026.09.09-01.19.10:148][755]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_sharedassets/Layer_1_LayerInfo_Auto1
+[2026.09.09-01.19.10:148][755]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Layer_1_LayerInfo_Auto12005F7D34916D9D52F5816A690DF2F21.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/Maps/Level1_sharedassets/Layer_1_LayerInfo_Auto1.uasset'
+[2026.09.09-01.19.10:150][755]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.09.09-01.22.51:275][601]LogFab: Display: OpenInNewTab https://www.fab.com/plugins/ue5/listings/b0778b8d-efe4-4448-baa3-1df2bd331578
+[2026.09.09-01.22.51:275][601]LogFab: Display: Logging in using persist
+[2026.09.09-01.22.51:481][609]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 5ab...af8 Access[Expires: 2026.09.09-03.22.51 Remaining: 7200.15] Refresh[Expires: 2027-03-07T17:44:13.316Z Remaining: 15524482.32] State: Valid
+[2026.09.09-01.22.51:494][610]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.09.09-01.22.51:602][619]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.09.09-01.22.51:602][619]LogFab: Display: User logged in
+[2026.09.09-01.22.51:602][619]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.09.09-01.23.40:130][403]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1399.498779
+[2026.09.09-01.23.40:235][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.09-01.23.40:235][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1399.596069, Update Interval: 313.932922
+[2026.09.09-01.23.55:689][918]Cmd: TRANSACTION UNDO
+[2026.09.09-01.23.55:689][918]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.09.09-01.23.55:713][918]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_11 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.56:313][925]Cmd: TRANSACTION UNDO
+[2026.09.09-01.23.56:313][925]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.09.09-01.23.56:332][925]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_11 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.56:608][948]Cmd: TRANSACTION UNDO
+[2026.09.09-01.23.56:608][948]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.09.09-01.23.56:620][948]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_10 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.56:620][948]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_11 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.56:942][966]Cmd: TRANSACTION UNDO
+[2026.09.09-01.23.56:943][966]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.09.09-01.23.56:956][966]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_10 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.56:956][966]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_11 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.57:290][998]Cmd: TRANSACTION UNDO
+[2026.09.09-01.23.57:290][998]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.09.09-01.23.57:301][998]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_10 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.57:302][998]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_11 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.57:572][ 23]Cmd: TRANSACTION UNDO
+[2026.09.09-01.23.57:572][ 23]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.09.09-01.23.57:584][ 23]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_11 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.23.57:585][ 23]LogTexture: Display: Building texture TwoD: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_10 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.09.09-01.24.25:340][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.09-01.24.25:340][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.09-01.24.25:342][448]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_1C697ABD403ADAFF02_1508738143
+[2026.09.09-01.24.25:342][448]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_1C697ABD403ADAFF02_1508738143
+[2026.09.09-01.28.02:007][238]Cmd: DELETE
+[2026.09.09-01.28.02:007][238]Cmd: ACTOR DELETE
+[2026.09.09-01.28.02:032][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.09-01.28.02:067][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.09.09-01.28.02:073][238]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2026.09.09-01.28.08:928][962]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Foliage" Editor Mode requires the legacy systems.
+[2026.09.09-01.28.21:577][301]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.28.21:834][313]LogTexture: Display: Building texture TwoD: /Game/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_mask.T_crystal_mask (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999984 MB), EncodeSpeed: Fast
+[2026.09.09-01.28.21:871][314]LogTexture: Display: Building texture TwoD: /Game/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_mask_03.T_crystal_mask_03 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999984 MB), EncodeSpeed: Fast
+[2026.09.09-01.28.21:924][317]LogTexture: Display: Building texture TwoD: /Game/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_mask_02.T_crystal_mask_02 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999984 MB), EncodeSpeed: Fast
+[2026.09.09-01.28.22:096][326]LogTexture: Display: Building texture TwoD: /Game/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_02_rgb.T_crystal_02_rgb (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.09-01.28.22:105][326]LogTexture: Display: Building texture TwoD: /Game/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_rgb.T_crystal_rgb (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.09-01.28.22:277][338]LogStaticMesh: Display: Building static mesh SM_crystal_sharpen_01 (Required Memory Estimate: 0.313452 MB)...
+[2026.09.09-01.28.22:293][338]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_01) ...
+[2026.09.09-01.28.22:324][338]LogStaticMesh: Built static mesh [0.05s] /Game/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_01.SM_crystal_sharpen_01
+[2026.09.09-01.28.22:334][338]LogTexture: Display: Building texture TwoD: /Game/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_02_rgb_N.T_crystal_02_rgb_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.09.09-01.28.22:556][338]LogTexture: Display: Building texture TwoD: /Game/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystal_rgb_N.T_crystal_rgb_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.09.09-01.28.23:014][338]LogTexture: Display: Building texture TwoD: /Game/Fantasy_Crystal_Cave/Textures/T_crystals/T_crystals_N.T_crystals_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 398.499988 MB), EncodeSpeed: Fast
+[2026.09.09-01.28.25:107][338]LogSlate: Window 'Save Asset As' being destroyed
+[2026.09.09-01.28.25:139][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.28.25:197][338]LogFileHelpers: Saving Package: /Game/SM_crystal_sharpen_01_FoliageType
+[2026.09.09-01.28.25:197][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_crystal_sharpen_01_FoliageType] ([1] browsable assets)...
+[2026.09.09-01.28.25:252][338]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/SM_crystal_sharpen_01_FoliageType.SM_crystal_sharpen_01_FoliageType]
+[2026.09.09-01.28.25:252][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_crystal_sharpen_01_FoliageType]
+[2026.09.09-01.28.25:259][338]LogSavePackage: Moving output files for package: /Game/SM_crystal_sharpen_01_FoliageType
+[2026.09.09-01.28.25:260][338]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SM_crystal_sharpen_01_FoliageTyp312B8B5145180F1057752C9DB10CB9F3.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/SM_crystal_sharpen_01_FoliageType.uasset'
+[2026.09.09-01.28.25:269][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.240 ms (total: 18.6 sec)
+[2026.09.09-01.28.25:330][338]LogContentValidation: Enabled validators:
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.28.25:330][338]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.28.25:330][338]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-01.28.25:330][338]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.09-01.28.25:331][338]AssetCheck: /Game/SM_crystal_sharpen_01_FoliageType Validating asset
+[2026.09.09-01.28.25:331][338]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.28.25:331][338]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.28.25:357][338]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.09-01.28.27:422][480]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.28.27:424][480]LogStaticMesh: Display: Building static mesh SM_crystal_sharpen_02 (Required Memory Estimate: 0.098033 MB)...
+[2026.09.09-01.28.27:429][480]LogStaticMesh: Built static mesh [0.01s] /Game/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_02.SM_crystal_sharpen_02
+[2026.09.09-01.28.29:732][550]LogSlate: Window 'Save Asset As' being destroyed
+[2026.09.09-01.28.29:761][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.28.29:814][550]LogFileHelpers: Saving Package: /Game/SM_crystal_sharpen_02_FoliageType
+[2026.09.09-01.28.29:814][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_crystal_sharpen_02_FoliageType] ([1] browsable assets)...
+[2026.09.09-01.28.29:823][550]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/SM_crystal_sharpen_02_FoliageType.SM_crystal_sharpen_02_FoliageType]
+[2026.09.09-01.28.29:823][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_crystal_sharpen_02_FoliageType]
+[2026.09.09-01.28.29:834][550]LogSavePackage: Moving output files for package: /Game/SM_crystal_sharpen_02_FoliageType
+[2026.09.09-01.28.29:834][550]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SM_crystal_sharpen_02_FoliageTyp3D5697CD44AB73E4FFECFC9D351F0ED4.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/SM_crystal_sharpen_02_FoliageType.uasset'
+[2026.09.09-01.28.29:845][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.759 ms (total: 18.7 sec)
+[2026.09.09-01.28.29:895][550]LogContentValidation: Enabled validators:
+[2026.09.09-01.28.29:895][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.28.29:896][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.28.29:896][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.28.29:896][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.28.29:896][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.28.29:896][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.28.29:896][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.28.29:896][550]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.28.29:896][550]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.28.29:896][550]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-01.28.29:896][550]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.09-01.28.29:896][550]AssetCheck: /Game/SM_crystal_sharpen_02_FoliageType Validating asset
+[2026.09.09-01.28.29:896][550]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.28.29:896][550]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.28.29:913][550]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.09-01.28.34:297][839]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.28.34:299][839]LogStaticMesh: Display: Building static mesh SM_crystal_sharpen_03 (Required Memory Estimate: 0.094461 MB)...
+[2026.09.09-01.28.34:304][839]LogStaticMesh: Built static mesh [0.01s] /Game/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_03.SM_crystal_sharpen_03
+[2026.09.09-01.28.36:630][921]LogSlate: Window 'Save Asset As' being destroyed
+[2026.09.09-01.28.36:642][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.28.36:696][921]LogFileHelpers: Saving Package: /Game/SM_crystal_sharpen_03_FoliageType
+[2026.09.09-01.28.36:696][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_crystal_sharpen_03_FoliageType] ([1] browsable assets)...
+[2026.09.09-01.28.36:746][921]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/SM_crystal_sharpen_03_FoliageType.SM_crystal_sharpen_03_FoliageType]
+[2026.09.09-01.28.36:746][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_crystal_sharpen_03_FoliageType]
+[2026.09.09-01.28.36:752][921]LogSavePackage: Moving output files for package: /Game/SM_crystal_sharpen_03_FoliageType
+[2026.09.09-01.28.36:752][921]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SM_crystal_sharpen_03_FoliageTyp66A0DD274CAF17779A16BA9CE7D88A9F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/SM_crystal_sharpen_03_FoliageType.uasset'
+[2026.09.09-01.28.36:761][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.285 ms (total: 18.8 sec)
+[2026.09.09-01.28.36:812][921]LogContentValidation: Enabled validators:
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.28.36:813][921]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.28.36:813][921]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-01.28.36:813][921]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.09-01.28.36:813][921]AssetCheck: /Game/SM_crystal_sharpen_03_FoliageType Validating asset
+[2026.09.09-01.28.36:813][921]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.28.36:814][921]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.28.36:830][921]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.09-01.28.38:859][ 86]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.28.38:861][ 86]LogStaticMesh: Display: Building static mesh SM_crystal_sharpen_04 (Required Memory Estimate: 0.19636 MB)...
+[2026.09.09-01.28.38:875][ 86]LogStaticMesh: Built static mesh [0.01s] /Game/Fantasy_Crystal_Cave/Meshes/Crystal_sharpen/SM_crystal_sharpen_04.SM_crystal_sharpen_04
+[2026.09.09-01.28.44:703][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.09.09-01.28.46:567][714]LogSlate: Window 'Save Content' being destroyed
+[2026.09.09-01.28.46:603][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.28.46:647][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/7/PL/AA07YTAPRD2VPA38ME7SNY
+[2026.09.09-01.28.46:658][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/7/PL/AA07YTAPRD2VPA38ME7SNY
+[2026.09.09-01.28.46:659][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/AA07YTAPRD2VPA38ME7SNY7C35F8924FD12E67E0AD79A5E755B37A.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/7/PL/AA07YTAPRD2VPA38ME7SNY.uasset'
+[2026.09.09-01.28.46:662][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/TF/XSDBRWRN0NPJKD58DPBYHY
+[2026.09.09-01.28.46:693][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/TF/XSDBRWRN0NPJKD58DPBYHY
+[2026.09.09-01.28.46:694][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/XSDBRWRN0NPJKD58DPBYHY30CD8E5443FA15BFFF970997687BE212.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/TF/XSDBRWRN0NPJKD58DPBYHY.uasset'
+[2026.09.09-01.28.46:695][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/E/PG/Q48I0SUOO9KP28TGBZ7PNI
+[2026.09.09-01.28.46:719][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/E/PG/Q48I0SUOO9KP28TGBZ7PNI
+[2026.09.09-01.28.46:720][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Q48I0SUOO9KP28TGBZ7PNIE5DD1CB64BD7A247B2DF18A96F94AF8A.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/E/PG/Q48I0SUOO9KP28TGBZ7PNI.uasset'
+[2026.09.09-01.28.46:722][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/E/KB/ZYT8PC5VHDFYWQALPG5CF4
+[2026.09.09-01.28.46:747][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/E/KB/ZYT8PC5VHDFYWQALPG5CF4
+[2026.09.09-01.28.46:749][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/ZYT8PC5VHDFYWQALPG5CF48A1B95274DE63733D7F961A622E2CDB2.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/E/KB/ZYT8PC5VHDFYWQALPG5CF4.uasset'
+[2026.09.09-01.28.46:750][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/1/P7/UAQUTU6YGC3C32JHMS33OW
+[2026.09.09-01.28.46:775][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/1/P7/UAQUTU6YGC3C32JHMS33OW
+[2026.09.09-01.28.46:776][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/UAQUTU6YGC3C32JHMS33OW3C0406F848D5DDE471E09EB77584FB6F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/1/P7/UAQUTU6YGC3C32JHMS33OW.uasset'
+[2026.09.09-01.28.46:777][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/PE/W7ZE2C8GTX9FZT2I3CGXB4
+[2026.09.09-01.28.46:801][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/PE/W7ZE2C8GTX9FZT2I3CGXB4
+[2026.09.09-01.28.46:802][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/W7ZE2C8GTX9FZT2I3CGXB43ED749604EA89CBF2232A1B1A5665643.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/PE/W7ZE2C8GTX9FZT2I3CGXB4.uasset'
+[2026.09.09-01.28.46:804][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/RU/U34K3I3FY8I1WP8J0ENKJS
+[2026.09.09-01.28.46:829][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/RU/U34K3I3FY8I1WP8J0ENKJS
+[2026.09.09-01.28.46:830][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/U34K3I3FY8I1WP8J0ENKJS85D57CA847B162947B92BEBBBB32D650.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/RU/U34K3I3FY8I1WP8J0ENKJS.uasset'
+[2026.09.09-01.28.46:831][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/8/MS/YAZSP2PDH8W0AALV4RG7UK
+[2026.09.09-01.28.46:858][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/8/MS/YAZSP2PDH8W0AALV4RG7UK
+[2026.09.09-01.28.46:858][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/YAZSP2PDH8W0AALV4RG7UK722F0EAF43F6325463FFCB9F37A3340D.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/8/MS/YAZSP2PDH8W0AALV4RG7UK.uasset'
+[2026.09.09-01.28.46:860][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/A/N6/874YTVBNPEFAWLL212KJWM
+[2026.09.09-01.28.46:885][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/N6/874YTVBNPEFAWLL212KJWM
+[2026.09.09-01.28.46:886][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/874YTVBNPEFAWLL212KJWM0363E69E47B5A59952A59186F2C50E43.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/A/N6/874YTVBNPEFAWLL212KJWM.uasset'
+[2026.09.09-01.28.46:889][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/2/SX/LY1H9CATFW16IC11EB9LDR
+[2026.09.09-01.28.46:912][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/2/SX/LY1H9CATFW16IC11EB9LDR
+[2026.09.09-01.28.46:914][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/LY1H9CATFW16IC11EB9LDRD00368EF4A390872D6F904AE788A454F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/2/SX/LY1H9CATFW16IC11EB9LDR.uasset'
+[2026.09.09-01.28.46:916][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/38/J5KP7ADZUAR9AYH8IRG7N9
+[2026.09.09-01.28.46:941][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/38/J5KP7ADZUAR9AYH8IRG7N9
+[2026.09.09-01.28.46:942][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/J5KP7ADZUAR9AYH8IRG7N94C4DDD8A4C10BCB650124C960D8C59C5.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/38/J5KP7ADZUAR9AYH8IRG7N9.uasset'
+[2026.09.09-01.28.46:944][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/D/EE/1J8BCPN6S2PAR5L7914RQ2
+[2026.09.09-01.28.46:969][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/D/EE/1J8BCPN6S2PAR5L7914RQ2
+[2026.09.09-01.28.46:969][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/1J8BCPN6S2PAR5L7914RQ2254E5B5841ABF11F1DF3E2A88AFB6C01.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/D/EE/1J8BCPN6S2PAR5L7914RQ2.uasset'
+[2026.09.09-01.28.46:971][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/2/5A/X97LX5VAOES60IK9LP1GO6
+[2026.09.09-01.28.47:019][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/2/5A/X97LX5VAOES60IK9LP1GO6
+[2026.09.09-01.28.47:020][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/X97LX5VAOES60IK9LP1GO69C3D9048465F073AAD30DCB6EF15D815.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/2/5A/X97LX5VAOES60IK9LP1GO6.uasset'
+[2026.09.09-01.28.47:022][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/2H/UI1O6O5WRUDZVNMT8KSQGE
+[2026.09.09-01.28.47:048][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/2H/UI1O6O5WRUDZVNMT8KSQGE
+[2026.09.09-01.28.47:049][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/UI1O6O5WRUDZVNMT8KSQGE885835714F2A8EC937DEA7A52807EC8D.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/2H/UI1O6O5WRUDZVNMT8KSQGE.uasset'
+[2026.09.09-01.28.47:052][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/4/ON/GAF1LWS9YXKNJ4UCLAVZFW
+[2026.09.09-01.28.47:077][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/4/ON/GAF1LWS9YXKNJ4UCLAVZFW
+[2026.09.09-01.28.47:078][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/GAF1LWS9YXKNJ4UCLAVZFWEE52D8724CFFC0F4D98F968A0B3EB106.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/4/ON/GAF1LWS9YXKNJ4UCLAVZFW.uasset'
+[2026.09.09-01.28.47:080][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/D/18/9TKFCNS4O2AW91AMZMYIVB
+[2026.09.09-01.28.47:105][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/D/18/9TKFCNS4O2AW91AMZMYIVB
+[2026.09.09-01.28.47:106][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/9TKFCNS4O2AW91AMZMYIVB7ADC1B604836FB728F3418995E3B9066.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/D/18/9TKFCNS4O2AW91AMZMYIVB.uasset'
+[2026.09.09-01.28.47:107][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/D/GY/I1BPSZK72EH0HY4DET6X4O
+[2026.09.09-01.28.47:133][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/D/GY/I1BPSZK72EH0HY4DET6X4O
+[2026.09.09-01.28.47:134][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/I1BPSZK72EH0HY4DET6X4O63C6840A4FB564BD5AA68B864BA30BD4.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/D/GY/I1BPSZK72EH0HY4DET6X4O.uasset'
+[2026.09.09-01.28.47:135][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/XD/39S8U3BA750LSONG40LDYP
+[2026.09.09-01.28.47:161][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/XD/39S8U3BA750LSONG40LDYP
+[2026.09.09-01.28.47:161][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/39S8U3BA750LSONG40LDYP032F58BE4E5E38D3588D0C9F2C4F45EA.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/XD/39S8U3BA750LSONG40LDYP.uasset'
+[2026.09.09-01.28.47:167][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/TG/E8W04N1NMT5QL9HYQ93V4P
+[2026.09.09-01.28.47:226][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/TG/E8W04N1NMT5QL9HYQ93V4P
+[2026.09.09-01.28.47:227][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/E8W04N1NMT5QL9HYQ93V4P6DE32D404EC9A273A86167B82371885F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/TG/E8W04N1NMT5QL9HYQ93V4P.uasset'
+[2026.09.09-01.28.47:229][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/5/7N/TEFOQ8MAR2CCKZQ05YI72C
+[2026.09.09-01.28.47:258][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/5/7N/TEFOQ8MAR2CCKZQ05YI72C
+[2026.09.09-01.28.47:259][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/TEFOQ8MAR2CCKZQ05YI72C638057EA4C8DF250CB610BA93F2750EE.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/5/7N/TEFOQ8MAR2CCKZQ05YI72C.uasset'
+[2026.09.09-01.28.47:261][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/EW/2BSAJS93NL2I8Q7KZ3PZOU
+[2026.09.09-01.28.47:285][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/EW/2BSAJS93NL2I8Q7KZ3PZOU
+[2026.09.09-01.28.47:286][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/2BSAJS93NL2I8Q7KZ3PZOU02A5DE094F2916D1057CAE8A6D5595B7.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/EW/2BSAJS93NL2I8Q7KZ3PZOU.uasset'
+[2026.09.09-01.28.47:289][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/C/P8/MXM6ALOGSY3GQOJLZWPSRU
+[2026.09.09-01.28.47:315][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/C/P8/MXM6ALOGSY3GQOJLZWPSRU
+[2026.09.09-01.28.47:316][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/MXM6ALOGSY3GQOJLZWPSRU4791F4F849FCA73B96E49A830CA8E1CB.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/C/P8/MXM6ALOGSY3GQOJLZWPSRU.uasset'
+[2026.09.09-01.28.47:318][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/8/Y1/J1Z2DMV837PXGPVYJCG3RC
+[2026.09.09-01.28.47:346][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/8/Y1/J1Z2DMV837PXGPVYJCG3RC
+[2026.09.09-01.28.47:347][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/J1Z2DMV837PXGPVYJCG3RCB5E6A598409B539F3DE84C8BFB92BB57.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/8/Y1/J1Z2DMV837PXGPVYJCG3RC.uasset'
+[2026.09.09-01.28.47:349][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/E/S8/L01GJ5GWUTRSP5JU5GG4GV
+[2026.09.09-01.28.47:375][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/E/S8/L01GJ5GWUTRSP5JU5GG4GV
+[2026.09.09-01.28.47:376][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/L01GJ5GWUTRSP5JU5GG4GV3BC3378248895CCB040BCE97DCF586C7.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/E/S8/L01GJ5GWUTRSP5JU5GG4GV.uasset'
+[2026.09.09-01.28.47:378][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/3/3C/BB4RZ7ZIB9QLISJ94UFNCW
+[2026.09.09-01.28.47:402][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/3/3C/BB4RZ7ZIB9QLISJ94UFNCW
+[2026.09.09-01.28.47:404][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/BB4RZ7ZIB9QLISJ94UFNCWF8CA1FAB49BE1F9223BD9CA4BDE397CE.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/3/3C/BB4RZ7ZIB9QLISJ94UFNCW.uasset'
+[2026.09.09-01.28.47:405][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/0/U0/GF1AWZB5LWJP9EMDI5PJ80
+[2026.09.09-01.28.47:431][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/0/U0/GF1AWZB5LWJP9EMDI5PJ80
+[2026.09.09-01.28.47:432][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/GF1AWZB5LWJP9EMDI5PJ8077F5A5A5408B26B974E918BEEF8E0C6B.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/0/U0/GF1AWZB5LWJP9EMDI5PJ80.uasset'
+[2026.09.09-01.28.47:433][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/5/PG/R9AADAL6I8B7IK1YAC7V8Q
+[2026.09.09-01.28.47:461][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/5/PG/R9AADAL6I8B7IK1YAC7V8Q
+[2026.09.09-01.28.47:464][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/R9AADAL6I8B7IK1YAC7V8Q042232ED44F0400C8DFBB99B34793227.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/5/PG/R9AADAL6I8B7IK1YAC7V8Q.uasset'
+[2026.09.09-01.28.47:468][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/4/1U/L8SUMI3TT3P3IL4VCSGKFX
+[2026.09.09-01.28.47:510][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/4/1U/L8SUMI3TT3P3IL4VCSGKFX
+[2026.09.09-01.28.47:511][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/L8SUMI3TT3P3IL4VCSGKFX8B15FF84431ACF69F359F18C47D02AA6.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/4/1U/L8SUMI3TT3P3IL4VCSGKFX.uasset'
+[2026.09.09-01.28.47:513][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P
+[2026.09.09-01.28.47:534][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P
+[2026.09.09-01.28.47:535][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/LKH9QHIITTO24U8SBTKP8PFE1CA73947D366FCFD0F4F93477D3606.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P.uasset'
+[2026.09.09-01.28.47:536][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU
+[2026.09.09-01.28.47:556][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU
+[2026.09.09-01.28.47:557][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/4HFJV4XS0UB98RPNRHQOTUBF4E9777412B5052025D1BB48D15B0DF.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU.uasset'
+[2026.09.09-01.28.47:559][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/8/VM/66BUT79KBD3P7891ERYWLR
+[2026.09.09-01.28.47:585][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/8/VM/66BUT79KBD3P7891ERYWLR
+[2026.09.09-01.28.47:586][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/66BUT79KBD3P7891ERYWLRECE5310844790C3347BD9EB72BF6060C.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/8/VM/66BUT79KBD3P7891ERYWLR.uasset'
+[2026.09.09-01.28.47:588][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/6/OG/KLBB5HM3MPMQJD00FQLPVC
+[2026.09.09-01.28.47:614][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/6/OG/KLBB5HM3MPMQJD00FQLPVC
+[2026.09.09-01.28.47:615][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/KLBB5HM3MPMQJD00FQLPVCE3D3A04F4B7D474A6BD13DB3DD2E6436.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/6/OG/KLBB5HM3MPMQJD00FQLPVC.uasset'
+[2026.09.09-01.28.47:617][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/6/Z4/MW27RGTD3OKQTTU0EKJDT5
+[2026.09.09-01.28.47:642][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/6/Z4/MW27RGTD3OKQTTU0EKJDT5
+[2026.09.09-01.28.47:643][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/MW27RGTD3OKQTTU0EKJDT52CE326B34FF3C888132DEF807E323CF9.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/6/Z4/MW27RGTD3OKQTTU0EKJDT5.uasset'
+[2026.09.09-01.28.47:644][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/5/ZH/9UG1L296JHHEFBE653MSHS
+[2026.09.09-01.28.47:670][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/5/ZH/9UG1L296JHHEFBE653MSHS
+[2026.09.09-01.28.47:671][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/9UG1L296JHHEFBE653MSHS7EA75C58493AE80B6B0972B63912CB26.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/5/ZH/9UG1L296JHHEFBE653MSHS.uasset'
+[2026.09.09-01.28.47:674][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/DY/9DJK7HDBFE3J2EP08JX7NB
+[2026.09.09-01.28.47:704][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/DY/9DJK7HDBFE3J2EP08JX7NB
+[2026.09.09-01.28.47:705][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/9DJK7HDBFE3J2EP08JX7NB2863807C46E765D656C29CB5B938207B.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/DY/9DJK7HDBFE3J2EP08JX7NB.uasset'
+[2026.09.09-01.28.47:707][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/C/0Z/W7EXQAQI61GKI7U6QVXZK3
+[2026.09.09-01.28.47:736][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/C/0Z/W7EXQAQI61GKI7U6QVXZK3
+[2026.09.09-01.28.47:736][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/W7EXQAQI61GKI7U6QVXZK3CFBFF47F4F2C6B5E90D46B95EBF7DD98.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/C/0Z/W7EXQAQI61GKI7U6QVXZK3.uasset'
+[2026.09.09-01.28.47:738][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX
+[2026.09.09-01.28.47:760][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX
+[2026.09.09-01.28.47:761][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/2SDR2YPQCWWJRDEB36XEDXB9B9983E4A9883C84C14B2A891E6652C.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX.uasset'
+[2026.09.09-01.28.47:763][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/L7/VBL5RX2G5TDQWH6L26BHK6
+[2026.09.09-01.28.47:782][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/L7/VBL5RX2G5TDQWH6L26BHK6
+[2026.09.09-01.28.47:783][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/VBL5RX2G5TDQWH6L26BHK6585D713A4CC7AF4F338D9D9E7983C4CA.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/L7/VBL5RX2G5TDQWH6L26BHK6.uasset'
+[2026.09.09-01.28.47:785][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/8G/1YD75MJQCUXSSPAFOAANFS
+[2026.09.09-01.28.47:811][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/8G/1YD75MJQCUXSSPAFOAANFS
+[2026.09.09-01.28.47:812][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/1YD75MJQCUXSSPAFOAANFS0FDF37BC409ABAF71BC2BEB46C48CD02.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/8G/1YD75MJQCUXSSPAFOAANFS.uasset'
+[2026.09.09-01.28.47:814][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/G5/TY3PFW8OX495L2QQQ96GZA
+[2026.09.09-01.28.47:842][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/G5/TY3PFW8OX495L2QQQ96GZA
+[2026.09.09-01.28.47:842][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/TY3PFW8OX495L2QQQ96GZA0988674441448488E3CF6E9AFCB9C39B.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/G5/TY3PFW8OX495L2QQQ96GZA.uasset'
+[2026.09.09-01.28.47:844][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/8/T2/8H5S5D9YSIAQQX88ZU7FXI
+[2026.09.09-01.28.47:870][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/8/T2/8H5S5D9YSIAQQX88ZU7FXI
+[2026.09.09-01.28.47:871][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/8H5S5D9YSIAQQX88ZU7FXI0CB2D93F4823D08F9BC44FB5060B28EF.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/8/T2/8H5S5D9YSIAQQX88ZU7FXI.uasset'
+[2026.09.09-01.28.47:872][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/A/J7/JXHY10IX6QMYZV21WHNXBM
+[2026.09.09-01.28.47:897][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/J7/JXHY10IX6QMYZV21WHNXBM
+[2026.09.09-01.28.47:898][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/JXHY10IX6QMYZV21WHNXBM79DDAFE149246B625361F5A7B5B648B4.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/A/J7/JXHY10IX6QMYZV21WHNXBM.uasset'
+[2026.09.09-01.28.47:899][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/1/6H/HY9B9L1R0FWK5Q68T4O2KC
+[2026.09.09-01.28.47:924][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/1/6H/HY9B9L1R0FWK5Q68T4O2KC
+[2026.09.09-01.28.47:925][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/HY9B9L1R0FWK5Q68T4O2KCF01AAEFF416B8432BEAECF8FDEB96037.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/1/6H/HY9B9L1R0FWK5Q68T4O2KC.uasset'
+[2026.09.09-01.28.47:927][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/A/PN/XZOPBKFF3BNAD65NVJ7F6K
+[2026.09.09-01.28.47:955][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/PN/XZOPBKFF3BNAD65NVJ7F6K
+[2026.09.09-01.28.47:956][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/XZOPBKFF3BNAD65NVJ7F6K30A4086D43187E20BBAC9991323B88FC.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/A/PN/XZOPBKFF3BNAD65NVJ7F6K.uasset'
+[2026.09.09-01.28.47:958][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/2/GZ/7YXL2YH89GXIX96MVVWHUP
+[2026.09.09-01.28.47:984][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/2/GZ/7YXL2YH89GXIX96MVVWHUP
+[2026.09.09-01.28.47:986][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/7YXL2YH89GXIX96MVVWHUP67EF8A5342F7666C7964D4A0E6262175.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/2/GZ/7YXL2YH89GXIX96MVVWHUP.uasset'
+[2026.09.09-01.28.47:988][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/C/D0/5WC7JIMI20K70CFXP3CEFX
+[2026.09.09-01.28.48:029][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/C/D0/5WC7JIMI20K70CFXP3CEFX
+[2026.09.09-01.28.48:031][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/5WC7JIMI20K70CFXP3CEFX09CB9BAC40BB1266E39B748FC3607755.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/C/D0/5WC7JIMI20K70CFXP3CEFX.uasset'
+[2026.09.09-01.28.48:034][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/E/JG/6Y81THB3WSSMJ73W9BO1D1
+[2026.09.09-01.28.48:065][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/E/JG/6Y81THB3WSSMJ73W9BO1D1
+[2026.09.09-01.28.48:066][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/6Y81THB3WSSMJ73W9BO1D1819DE42B4DBB6AA590413E9F0AF58FBB.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/E/JG/6Y81THB3WSSMJ73W9BO1D1.uasset'
+[2026.09.09-01.28.48:068][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/D/K6/1579WNSDER1DPNH9NHAFA8
+[2026.09.09-01.28.48:094][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/D/K6/1579WNSDER1DPNH9NHAFA8
+[2026.09.09-01.28.48:095][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/1579WNSDER1DPNH9NHAFA87833F4BA43427D983262F99354D7CF92.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/D/K6/1579WNSDER1DPNH9NHAFA8.uasset'
+[2026.09.09-01.28.48:097][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/6/JR/T4IP8HQOZ2ZHQ7JS0BX3LH
+[2026.09.09-01.28.48:122][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/6/JR/T4IP8HQOZ2ZHQ7JS0BX3LH
+[2026.09.09-01.28.48:123][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/T4IP8HQOZ2ZHQ7JS0BX3LH13F5007943D3293DBBC294AA464160DA.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/6/JR/T4IP8HQOZ2ZHQ7JS0BX3LH.uasset'
+[2026.09.09-01.28.48:124][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/6V/0L2EXU927B5FVGF0XCV1N0
+[2026.09.09-01.28.48:149][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/6V/0L2EXU927B5FVGF0XCV1N0
+[2026.09.09-01.28.48:150][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/0L2EXU927B5FVGF0XCV1N00C45BB6F405CDB81E080F48E845141BD.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/6V/0L2EXU927B5FVGF0XCV1N0.uasset'
+[2026.09.09-01.28.48:152][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/C/WT/GCAL3KJV6SISWE6UQTPULZ
+[2026.09.09-01.28.48:179][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/C/WT/GCAL3KJV6SISWE6UQTPULZ
+[2026.09.09-01.28.48:179][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/GCAL3KJV6SISWE6UQTPULZ1421D1974DAE726C3A4D8B9D7A892533.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/C/WT/GCAL3KJV6SISWE6UQTPULZ.uasset'
+[2026.09.09-01.28.48:181][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/CV/IGE2JTDZMW123TPCSEFSV3
+[2026.09.09-01.28.48:210][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/CV/IGE2JTDZMW123TPCSEFSV3
+[2026.09.09-01.28.48:211][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/IGE2JTDZMW123TPCSEFSV3FF5BB3884183953CC63EDFA8DED8F77E.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/CV/IGE2JTDZMW123TPCSEFSV3.uasset'
+[2026.09.09-01.28.48:214][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/0V/6EFDIKOQ4FW3JSPUNGU7AG
+[2026.09.09-01.28.48:242][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/0V/6EFDIKOQ4FW3JSPUNGU7AG
+[2026.09.09-01.28.48:244][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/6EFDIKOQ4FW3JSPUNGU7AG674C9A364726440976960BA948A64826.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/0V/6EFDIKOQ4FW3JSPUNGU7AG.uasset'
+[2026.09.09-01.28.48:246][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/C/54/KH8HOV60KT0C4MRWR12E3W
+[2026.09.09-01.28.48:274][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/C/54/KH8HOV60KT0C4MRWR12E3W
+[2026.09.09-01.28.48:275][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/KH8HOV60KT0C4MRWR12E3W3DE2613E4C7C63FFE8FA379B7287B9F5.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/C/54/KH8HOV60KT0C4MRWR12E3W.uasset'
+[2026.09.09-01.28.48:277][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/SO/J3Q760VC9JKX8OFF2HG6SD
+[2026.09.09-01.28.48:302][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/SO/J3Q760VC9JKX8OFF2HG6SD
+[2026.09.09-01.28.48:304][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/J3Q760VC9JKX8OFF2HG6SD625B5D0843E51F7D57888FAEEBC9136C.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/SO/J3Q760VC9JKX8OFF2HG6SD.uasset'
+[2026.09.09-01.28.48:306][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/E/AK/XX9O6ORDAGP6CR2O77WLQR
+[2026.09.09-01.28.48:331][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/E/AK/XX9O6ORDAGP6CR2O77WLQR
+[2026.09.09-01.28.48:332][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/XX9O6ORDAGP6CR2O77WLQRFCF153FC45962E4AA9AA77BA9CC33BA8.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/E/AK/XX9O6ORDAGP6CR2O77WLQR.uasset'
+[2026.09.09-01.28.48:334][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/OQ/XFMJKI6MJU905PE5T33EE2
+[2026.09.09-01.28.48:358][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/OQ/XFMJKI6MJU905PE5T33EE2
+[2026.09.09-01.28.48:359][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/XFMJKI6MJU905PE5T33EE2A385D3224E105BBA40F004AD4AA88434.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/OQ/XFMJKI6MJU905PE5T33EE2.uasset'
+[2026.09.09-01.28.48:361][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/E/2R/D1JKG9264SGNQMHWCH7X5U
+[2026.09.09-01.28.48:387][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/E/2R/D1JKG9264SGNQMHWCH7X5U
+[2026.09.09-01.28.48:388][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/D1JKG9264SGNQMHWCH7X5UB3FBD4D446F408BD2314CAB4A68B07A9.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/E/2R/D1JKG9264SGNQMHWCH7X5U.uasset'
+[2026.09.09-01.28.48:389][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/3/XE/EQI2T54FNLI0FSPJ1ZRB33
+[2026.09.09-01.28.48:417][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/3/XE/EQI2T54FNLI0FSPJ1ZRB33
+[2026.09.09-01.28.48:418][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/EQI2T54FNLI0FSPJ1ZRB339E9D6FBC4A50502932AE18A032B298CB.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/3/XE/EQI2T54FNLI0FSPJ1ZRB33.uasset'
+[2026.09.09-01.28.48:419][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/B/9W/LPKES9MNNV6MSSMCARXR2D
+[2026.09.09-01.28.48:446][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/9W/LPKES9MNNV6MSSMCARXR2D
+[2026.09.09-01.28.48:447][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/LPKES9MNNV6MSSMCARXR2DEF8A666941976EE07ECCE1AB9C8D75ED.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/B/9W/LPKES9MNNV6MSSMCARXR2D.uasset'
+[2026.09.09-01.28.48:449][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/0/E4/ZQ038IJ4YRE1FJM08US3MF
+[2026.09.09-01.28.48:483][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/0/E4/ZQ038IJ4YRE1FJM08US3MF
+[2026.09.09-01.28.48:484][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/ZQ038IJ4YRE1FJM08US3MFE1B4807643B1427C6B7CC99FDE0D9245.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/0/E4/ZQ038IJ4YRE1FJM08US3MF.uasset'
+[2026.09.09-01.28.48:485][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/D/YU/KS466K3WQFRPZCSJLGJO16
+[2026.09.09-01.28.48:514][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/D/YU/KS466K3WQFRPZCSJLGJO16
+[2026.09.09-01.28.48:515][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/KS466K3WQFRPZCSJLGJO16B564FA58455CFEC3B1BAEC8698D50A65.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/D/YU/KS466K3WQFRPZCSJLGJO16.uasset'
+[2026.09.09-01.28.48:517][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/4/9B/QDUNMDIL12XKBON5WL652L
+[2026.09.09-01.28.48:545][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/4/9B/QDUNMDIL12XKBON5WL652L
+[2026.09.09-01.28.48:547][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/QDUNMDIL12XKBON5WL652LB2375955466C40737CAEB88EB0D38A8F.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/4/9B/QDUNMDIL12XKBON5WL652L.uasset'
+[2026.09.09-01.28.48:550][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/3/3Y/EOU7H2P2799J1U10Z70XIX
+[2026.09.09-01.28.48:582][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/3/3Y/EOU7H2P2799J1U10Z70XIX
+[2026.09.09-01.28.48:582][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/EOU7H2P2799J1U10Z70XIX81B7F22F4548FAD014A430A3088D4BB7.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/3/3Y/EOU7H2P2799J1U10Z70XIX.uasset'
+[2026.09.09-01.28.48:585][714]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/D/9C/W9QMK177OGR81HN81EUAIH
+[2026.09.09-01.28.48:615][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/D/9C/W9QMK177OGR81HN81EUAIH
+[2026.09.09-01.28.48:616][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/W9QMK177OGR81HN81EUAIH9EBD08034FC756B1BCF89E9AA17B6BBF.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/D/9C/W9QMK177OGR81HN81EUAIH.uasset'
+[2026.09.09-01.28.48:618][714]LogFileHelpers: Saving Package: /Game/Maps/Level1_sharedassets/Layer_1_LayerInfo
+[2026.09.09-01.28.48:618][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Level1_sharedassets/Layer_1_LayerInfo] ([1] browsable assets)...
+[2026.09.09-01.28.48:618][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Level1_sharedassets/Layer_1_LayerInfo]
+[2026.09.09-01.28.48:627][714]LogSavePackage: Moving output files for package: /Game/Maps/Level1_sharedassets/Layer_1_LayerInfo
+[2026.09.09-01.28.48:627][714]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Layer_1_LayerInfo068B94D04DC0991937978B8A9D6C52D8.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/Maps/Level1_sharedassets/Layer_1_LayerInfo.uasset'
+[2026.09.09-01.28.48:634][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.03 sec (total: 20.9 sec)
+[2026.09.09-01.28.48:727][714]LogContentValidation: Enabled validators:
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.28.48:727][714]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.28.48:727][714]LogContentValidation: Display: Starting to validate 2 assets (65 associated objects such as actors)
+[2026.09.09-01.28.48:727][714]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.09-01.28.48:727][714]AssetCheck: /Game/Maps/Level1 Validating asset
+[2026.09.09-01.28.48:727][714]AssetCheck: /Game/Maps/Level1_sharedassets/Layer_1_LayerInfo Validating asset
+[2026.09.09-01.28.48:727][714]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.28.48:728][714]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.28.48:744][714]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
