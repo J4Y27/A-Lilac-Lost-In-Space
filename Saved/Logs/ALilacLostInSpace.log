@@ -2407,3 +2407,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.09.09-00.20.21:358][160]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-00.20.40:637][509]LogFab: Display: Logging in using persist
+[2026.09.09-00.20.40:874][519]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 5ab...af8 Access[Expires: 2026.09.09-02.20.40 Remaining: 7200.53] Refresh[Expires: 2027-03-07T17:44:13.316Z Remaining: 15528213.32] State: Valid
+[2026.09.09-00.20.40:885][520]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.09.09-00.20.40:990][528]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.09.09-00.20.40:990][528]LogFab: Display: User logged in
+[2026.09.09-00.20.40:990][528]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.09.09-00.20.59:667][455]LogFab: Display: Add listing to project - d5a287c9-e208-409f-8bea-43d4c7216af1
+[2026.09.09-00.20.59:667][455]LogFab: Display: Listing type - unreal-engine
+[2026.09.09-00.20.59:667][455]LogFab: Display: Base Url https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/Ultimate32cc10a41cd6V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Ultimate32cc10a41cd6V1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/Ultimate32cc10a41cd6V1/CloudDir
+[2026.09.09-00.21.45:094][268]LogFab: Display: Add listing to project - 097af450-268d-4691-9502-aeb3714fbda7
+[2026.09.09-00.21.45:094][268]LogFab: Display: Listing type - unreal-engine
+[2026.09.09-00.21.45:094][268]LogFab: Display: Base Url https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Brushifyda40b64bac1bV2/CloudDir,https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/Brushifyda40b64bac1bV2/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/Brushifyda40b64bac1bV2/CloudDir
+[2026.09.09-00.21.58:349][245]LogSlate: Window 'Brushify - Floating Islands | Fab' being destroyed
+[2026.09.09-00.21.58:353][245]LogSlate: Window 'Brushify - Floating Islands | Fab' being destroyed
+[2026.09.09-00.21.59:850][260]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/097af450-268d-4691-9502-aeb3714fbda7.
