@@ -2623,3 +2623,97 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.10-17.35.31:187][ 99]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.09.10-17.35.31:824][140]LogBlueprint: Compiling Blueprint '/Game/Puzzles/Electricity-Puzzle/BP_ElectricWidget.BP_ElectricWidget'
 [2026.09.10-17.35.31:882][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.09.10-17.39.11:516][266]LogSlate: Window 'BP_ElectricWidget' being destroyed
+[2026.09.10-17.39.11:521][266]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.11:524][266]LogSlate: Window 'BP_ElectricWidget' being destroyed
+[2026.09.10-17.39.11:564][266]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.10-17.39.11:564][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.10-17.39.11:744][266]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.09.10-17.39.11:744][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.10-17.39.11:771][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.10-17.39.11:771][266]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.09.10-17.39.11:771][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.10-17.39.11:854][266]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.09.10-17.39.11:855][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.10-17.39.11:862][266]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.09.10-17.39.11:862][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.10-17.39.12:021][266]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.12:149][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.09.10-17.39.12:523][302]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.13:024][354]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.13:525][409]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.14:028][466]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.14:498][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.09.10-17.39.14:529][508]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.14:536][508]LogStall: Shutdown...
+[2026.09.10-17.39.14:558][508]LogStall: Shutdown complete.
+[2026.09.10-17.39.14:571][508]LogSlate: Window 'ALilacLostInSpace - Unreal Editor' being destroyed
+[2026.09.10-17.39.15:029][508]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.15:336][508]Cmd: QUIT_EDITOR
+[2026.09.10-17.39.15:337][508]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.09.10-17.39.15:347][509]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.09.10-17.39.15:356][509]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.09.10-17.39.15:356][509]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.09.10-17.39.15:530][509]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.15:724][509]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.10-17.39.15:727][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.10-17.39.15:728][509]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.09.10-17.39.15:778][509]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.09.10-17.39.15:828][509]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.09.10-17.39.15:948][509]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.09.10-17.39.15:989][509]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.09.10-17.39.15:989][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.10-17.39.15:993][509]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.09.10-17.39.15:993][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.10-17.39.16:023][509]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.09.10-17.39.16:029][509]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.09.10-17.39.16:032][509]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.10-17.39.16:044][509]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.09.10-17.39.16:044][509]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.09.10-17.39.16:046][509]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2026.09.10-17.39.16:047][509]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.09.10-17.39.16:056][509]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.09.10-17.39.16:101][509]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.10-17.39.16:154][509]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.09.10-17.39.16:155][509]LogAudio: Display: Audio Device Manager Shutdown
+[2026.09.10-17.39.16:242][509]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.09.10-17.39.16:242][509]LogExit: Preparing to exit.
+[2026.09.10-17.39.16:533][509]LogFileManager: Error: Error moving file '../../../../../../Users/djant/A-Lilac-Lost-In-Space/Saved/EditorPerProjectUserSettings49485E794C202581D980DB8164803416.tmp' to 'C:/Users/djant/A-Lilac-Lost-In-Space/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2026.09.10-17.39.19:605][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.09.10-17.39.19:634][509]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.10-17.39.20:504][509]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.09.10-17.39.20:505][509]LogAssetRegistry: Display:   CachedAssetRegistry_0_2E0F42B347F8CBF1D66F6BB3A9C8E9CC.bin: deleted (orphaned, unreferenced by any .ref)
+[2026.09.10-17.39.20:505][509]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 0 referenced (kept), 0 old-style pre-migration (kept), 1 orphans deleted, 0 orphans locked (kept)
+[2026.09.10-17.39.20:553][509]LogEditorDataStorage: Deinitializing
+[2026.09.10-17.39.20:575][509]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.09.10-17.39.20:575][509]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.09.10-17.39.20:575][509]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.09.10-17.39.20:575][509]LogEditorDataStorage: Resetting TEDS Core.
+[2026.09.10-17.39.20:765][509]LogEditorDataStorage: Reset TEDS Core.
+[2026.09.10-17.39.20:765][509]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.09.10-17.39.22:133][509]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.09.10-17.39.22:925][509]LogExit: Editor shut down
+[2026.09.10-17.39.23:053][509]LogExit: Transaction tracking system shut down
+[2026.09.10-17.39.26:593][509]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.10-17.39.26:593][509]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.10-17.39.26:837][509]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.10-17.39.26:838][509]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.10-17.39.27:457][509]LogExit: Object subsystem successfully closed.
+[2026.09.10-17.39.27:563][509]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.09.10-17.39.29:052][509]LogObjectProfiler: Shutdown
+[2026.09.10-17.39.29:053][509]LogMemoryProfiler: Shutdown
+[2026.09.10-17.39.29:054][509]LogNetworkingProfiler: Shutdown
+[2026.09.10-17.39.29:054][509]LogLoadingProfiler: Shutdown
+[2026.09.10-17.39.29:056][509]LogTimingProfiler: Shutdown
+[2026.09.10-17.39.29:067][509]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.09.10-17.39.29:068][509]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.09.10-17.39.29:068][509]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.09.10-17.39.29:068][509]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.09.10-17.39.29:068][509]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.09.10-17.39.31:349][509]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.09.10-17.39.32:053][509]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.09.10-17.39.32:074][509]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.09.10-17.39.32:074][509]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9FCD3179-444C-1E32-8DCC-89B665D78B89%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.2-56702186%2B%2B%2BUE5%2BRelease-5.8&UserID=e479b0d94c05db3f10abd6a4e8d46bb2%7C21301ba06e624247999de157d12ad776%7C04e835c7-6735-4472-a520-a4d00366baf7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.09.10-17.39.32:089][509]RenderDocPlugin: plugin has been unloaded.
+[2026.09.10-17.39.32:097][509]LogNFORDenoise: NFORDenoise function shutting down
+[2026.09.10-17.39.32:107][509]LogXGEController: Cleaning working directory: C:/Users/djant/AppData/Local/Temp/UnrealXGEWorkingDir/
