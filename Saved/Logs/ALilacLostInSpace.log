@@ -2717,3 +2717,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.10-17.39.32:089][509]RenderDocPlugin: plugin has been unloaded.
 [2026.09.10-17.39.32:097][509]LogNFORDenoise: NFORDenoise function shutting down
 [2026.09.10-17.39.32:107][509]LogXGEController: Cleaning working directory: C:/Users/djant/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.09.10-17.39.32:142][509]LogPakFile: Destroying PakPlatformFile
+[2026.09.10-17.39.34:092][509]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.09.10-17.39.34:180][509]LogExit: Exiting.
+[2026.09.10-17.39.34:268][509]Log file closed, 09/10/26 13:39:34
