@@ -5,17 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/PuzzleTemp.umap",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/NewPaperTileSet.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Bp_PuzzleMaster.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Interfaces/BPI_Interaction.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Bp_Electric_Puzzle.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/BP_ElectricWidget.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Electricity-Puzzle/Bp_Electric_Puzzle.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Electricity-Puzzle/BP_ElectricWidget.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Untitled_HLODLayer_Instanced.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Untitled_HLODLayer_Merged.uasset",
-				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Untitled.umap",
 				"C:/Users/popul/OneDrive/Documents/Unreal Projects/ALilacLostInSpace/Content/Test_HLOD0_Instancing.uasset",
 				"C:/Users/popul/OneDrive/Documents/Unreal Projects/ALilacLostInSpace/Content/__ExternalActors__/Test/5/1A/VUP29XOSGVTBSEE7DBRMJV.uasset",
 				"C:/Users/popul/OneDrive/Documents/Unreal Projects/ALilacLostInSpace/Content/__ExternalObjects__/Test/1/KR/KRHS4PP7HVVKUP6UGB4ZFJ.uasset",
@@ -160,7 +149,22 @@
 				"C:/Users/popul/OneDrive/Documents/Unreal Projects/ALilacLostInSpace/Content/__ExternalActors__/Test/E/8N/1S624L00G52QAU13V04KJL.uasset",
 				"C:/Users/popul/OneDrive/Documents/Unreal Projects/ALilacLostInSpace/Content/__ExternalActors__/Test/7/TO/P0Z46H5X9LRXWZQ1SO2FK0.uasset",
 				"C:/Users/popul/OneDrive/Documents/Unreal Projects/ALilacLostInSpace/Content/__ExternalActors__/Test/B/20/HF45TOFMX1JAXXVIRZI379.uasset",
-				"C:/Users/popul/OneDrive/Documents/Unreal Projects/ALilacLostInSpace/Content/Test.umap"
+				"C:/Users/popul/OneDrive/Documents/Unreal Projects/ALilacLostInSpace/Content/Test.umap",
+				"C:/Users/popul/OneDrive/Documents/Unreal Projects/A Lilac Lost In Space/Content/Jamar_B/Puzzle_assets/Frame.uasset",
+				"C:/Users/popul/OneDrive/Documents/Unreal Projects/A Lilac Lost In Space/Content/Jamar_B/Puzzle_assets/Pipe_2_PNG.uasset",
+				"C:/Users/popul/OneDrive/Documents/Unreal Projects/A Lilac Lost In Space/Content/Jamar_B/Puzzle_assets/Pipe_3.uasset",
+				"C:/Users/popul/OneDrive/Documents/Unreal Projects/A Lilac Lost In Space/Content/Jamar_B/Puzzle_assets/Pipe_EX.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/PuzzleTemp.umap",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/NewPaperTileSet.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Bp_PuzzleMaster.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Interfaces/BPI_Interaction.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Bp_Electric_Puzzle.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/BP_ElectricWidget.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Electricity-Puzzle/Bp_Electric_Puzzle.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Electricity-Puzzle/BP_ElectricWidget.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Untitled_HLODLayer_Instanced.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Untitled_HLODLayer_Merged.uasset",
+				"C:/Users/djant/A-Lilac-Lost-In-Space/Content/Puzzles/Untitled.umap"
 			]
 		}
 	]
