@@ -2609,3 +2609,340 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.09.13-21.27.34:031][406]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.09.13-21.27.34:031][406]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.09.13-21.27.34:054][406]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.13-21.28.51:452][679]LogStreaming: Display: FlushAsyncLoading(773): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.13-21.28.51:554][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_flare/T_default_N.T_default_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.51:599][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.28.51:599][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.28.51:599][679]LogActorFactory: Actor Factory spawned StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_0
+[2026.09.13-21.28.51:600][679]LogStaticMesh: Display: Building static mesh SM_rock_01 (Required Memory Estimate: 33.260274 MB)...
+[2026.09.13-21.28.51:616][679]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01) ...
+[2026.09.13-21.28.51:939][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_rock_02/T_rock_02_AORM.T_rock_02_AORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.51:949][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_rock_01/T_rock_01_AORM.T_rock_01_AORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.52:024][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_rock_01/T_rock_01_D.T_rock_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.52:041][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_rock_02/T_rock_02_D.T_rock_02_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.52:474][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_rock_02/T_rock_02_N.T_rock_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.52:499][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_rock_01/T_rock_01_N.T_rock_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.52:612][679]LogSlate: Slow task dialog suppressed because a drag operation is in progress
+[2026.09.13-21.28.53:412][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_rock/T_rock_detail_D.T_rock_detail_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.53:505][679]LogTexture: Display: Building texture TwoD: /Game/Alien_Cave_biome/Textures/T_rock/T_rock_detail_N.T_rock_detail_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.28.55:873][679]LogStaticMesh: Built static mesh [4.27s] /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.28.56:085][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.09.13-21.28.56:089][679]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2026.09.13-21.28.56:138][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.28.56:138][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.28.56:141][679]LogActorFactory: Actor Factory spawned StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_1C697ABD403A5F0103_1693966613
+[2026.09.13-21.28.57:111][699]LogMeshUtilities: Finished distance field build in 1.2s - 105x91x126 sparse distance field, 1.5Mb total, 0.0Mb always loaded, 69% occupied, 0 triangles, SM_rock_01
+[2026.09.13-21.29.01:248][908]Cmd: TRANSACTION UNDO
+[2026.09.13-21.29.01:249][908]LogEditorTransaction: Undo Clicking on Elements
+[2026.09.13-21.29.05:488][163]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.29.05:488][163]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.29.05:489][163]LogActorFactory: Actor Factory spawned StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_1
+[2026.09.13-21.29.06:013][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.09.13-21.29.06:015][196]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.09.13-21.29.06:024][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.29.06:024][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01
+[2026.09.13-21.29.06:028][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_01.SM_rock_01 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_1C697ABD403A5F0103_1703852614
+[2026.09.13-21.29.26:510][386]LogStreaming: Display: FlushAsyncLoading(774): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.13-21.29.26:513][386]LogStaticMesh: Display: Building static mesh SM_rock_02 (Required Memory Estimate: 42.098267 MB)...
+[2026.09.13-21.29.26:660][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_02.SM_rock_02
+[2026.09.13-21.29.26:660][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_02.SM_rock_02
+[2026.09.13-21.29.26:660][388]LogActorFactory: Actor Factory spawned StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_02.SM_rock_02 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_2
+[2026.09.13-21.29.26:676][388]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Alien_Cave_biome/Meshes/rocks/SM_rock_02) ...
+[2026.09.13-21.29.27:666][388]LogSlate: Slow task dialog suppressed because a drag operation is in progress
+[2026.09.13-21.29.30:175][388]LogStaticMesh: Built static mesh [3.66s] /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_02.SM_rock_02
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: ================================================
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Total job queries 642, among them cache hits 83 (12.93%), DDC hits 482 (75.08%), Duplicates 56 (8.72%)
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Tracking 503 distinct input hashes that result in 354 distinct outputs (70.38%)
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: RAM used: 4.41 MiB of 1.60 GiB budget. Usage: 0.27%
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Shaders Compiled: 21
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Average time worker was idle: 125.55 s
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 1.25 s
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 1.35
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Shader code size: total 266.003 KiB, numShaders 23, average 11.564 KiB, min 1.912 KiB, max 34.641 KiB
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.33 s
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Average processing rate: 4.85 jobs/sec
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Total thread time: 8.799 s
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Total thread preprocess time: 12.998 s
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Percentage time preprocessing: 147.72%
+[2026.09.13-21.29.30:207][388]LogShaderCompilers: Display: Effective parallelization: 2.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.254130
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.51 sec, max 0.89 sec, min 0.29 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.38 sec, max 0.53 sec, min 0.23 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.37 sec, max 0.39 sec, min 0.31 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.34% of total time (compiled    3 times, average 0.51 sec, max 0.89 sec, min 0.29 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.51% of total time (compiled    3 times, average 0.37 sec, max 0.39 sec, min 0.31 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.43% of total time (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.32% of total time (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.71% of total time (compiled    2 times, average 0.38 sec, max 0.53 sec, min 0.23 sec)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: === Material stats ===
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: Materials Translated:    174
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: Material Translation Only: 0.07 s (46%)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
+[2026.09.13-21.29.30:208][388]LogShaderCompilers: Display: ================================================
+[2026.09.13-21.29.31:396][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.09.13-21.29.31:398][443]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2026.09.13-21.29.31:421][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_02.SM_rock_02
+[2026.09.13-21.29.31:421][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_02.SM_rock_02
+[2026.09.13-21.29.31:424][443]LogActorFactory: Actor Factory spawned StaticMesh /Game/Alien_Cave_biome/Meshes/rocks/SM_rock_02.SM_rock_02 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_1C697ABD403A5F0103_1729249615
+[2026.09.13-21.29.31:429][443]LogMeshUtilities: Finished distance field build in 1.2s - 105x91x119 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 67% occupied, 0 triangles, SM_rock_02
+[2026.09.13-21.29.50:009][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_0.SM_rock_0
+[2026.09.13-21.29.50:009][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_0.SM_rock_0
+[2026.09.13-21.29.50:009][276]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_0.SM_rock_0 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_3
+[2026.09.13-21.29.50:791][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.09.13-21.29.50:794][320]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.09.13-21.29.50:812][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_0.SM_rock_0
+[2026.09.13-21.29.50:812][320]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_0.SM_rock_0
+[2026.09.13-21.29.50:814][320]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantasy_Crystal_Cave/Meshes/Rocks/SM_rock_0.SM_rock_0 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_1C697ABD403A5F0103_1748640616
+[2026.09.13-21.30.43:681][670]LogStreaming: Display: FlushAsyncLoading(775): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.13-21.30.43:720][670]LogStaticMesh: Display: Building static mesh SM_ground5 (Required Memory Estimate: 1948.644199 MB)...
+[2026.09.13-21.30.43:856][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyForest/Models/SM_ground5.SM_ground5
+[2026.09.13-21.30.43:856][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyForest/Models/SM_ground5.SM_ground5
+[2026.09.13-21.30.43:856][671]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyForest/Models/SM_ground5.SM_ground5 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_4
+[2026.09.13-21.30.43:873][671]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FantasyForest/Models/SM_ground5) ...
+[2026.09.13-21.30.43:887][671]LogTexture: Display: Building texture TwoD: /Game/FantasyForest/Textures/T_ground1_roughness.T_ground1_roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.30.43:962][671]LogTexture: Display: Building texture TwoD: /Game/FantasyForest/Textures/T_ground1_color.T_ground1_color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.30.44:011][671]LogTexture: Display: Building texture TwoD: /Game/FantasyForest/Textures/T_ground1_normal.T_ground1_normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.09.13-21.30.44:859][671]LogSlate: Slow task dialog suppressed because a drag operation is in progress
+[2026.09.13-21.30.49:427][671]LogStaticMesh: Adjacency [0.20s], tris: 1276533, UVs 2
+[2026.09.13-21.30.51:174][671]LogStaticMesh: Clustering [1.75s]. Ratio: 1.016745
+[2026.09.13-21.30.51:193][671]LogStaticMesh: Leaves [0.02s]
+[2026.09.13-21.30.57:212][671]LogStaticMesh: Reduce [6.01s]
+[2026.09.13-21.30.57:610][671]LogStaticMesh: Fallback [0.40s], num tris: 13578
+[2026.09.13-21.30.57:709][671]LogStaticMesh: Fallback [0.10s], num tris: 4404
+[2026.09.13-21.30.57:876][671]LogStaticMesh: ConstrainClusters:
+[2026.09.13-21.30.57:876][671]LogStaticMesh:   Input: 20779 Clusters, 2616502 Triangles and 1888268 Vertices
+[2026.09.13-21.30.57:876][671]LogStaticMesh:   Output without splits: 20779 Clusters, 2616502 Triangles and 1924469 Vertices
+[2026.09.13-21.30.57:876][671]LogStaticMesh:   Output with splits: 20779 Clusters, 2616502 Triangles and 1924469 Vertices
+[2026.09.13-21.30.57:888][671]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 20779, Slow Path Clusters: 0, 1 Material: 20779, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.09.13-21.30.58:084][671]LogStaticMesh: WritePages: 235
+[2026.09.13-21.30.58:084][671]LogStaticMesh:   Root: GPU size: 31332 bytes. 1 Pages. 31332.000 bytes per page (95.618% utilization).
+[2026.09.13-21.30.58:084][671]LogStaticMesh:   Streaming: GPU size: 30466316 bytes. 234 Pages (221 with relative encoding). 130197.930 bytes per page (99.333% utilization).
+[2026.09.13-21.30.58:084][671]LogStaticMesh:   Page data disk size: 24513280 bytes. Fixup data size: 86742 bytes.
+[2026.09.13-21.30.58:084][671]LogStaticMesh:   Total GPU size: 30497648 bytes, Total disk size: 24600022 bytes.
+[2026.09.13-21.30.58:089][671]LogStaticMesh: Encode [0.38s]
+[2026.09.13-21.30.58:092][671]LogStaticMesh: NaniteBuild [8.87s]
+[2026.09.13-21.30.58:338][671]LogStaticMesh: Built static mesh [14.62s] /Game/FantasyForest/Models/SM_ground5.SM_ground5
+[2026.09.13-21.31.02:768][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.09.13-21.31.02:771][672]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.09.13-21.31.02:831][672]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyForest/Models/SM_ground5.SM_ground5
+[2026.09.13-21.31.02:832][672]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FantasyForest/Models/SM_ground5.SM_ground5
+[2026.09.13-21.31.02:835][672]LogActorFactory: Actor Factory spawned StaticMesh /Game/FantasyForest/Models/SM_ground5.SM_ground5 as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_1C697ABD403A5F0103_1820660617
+[2026.09.13-21.31.05:329][823]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, SM_ground5
+[2026.09.13-21.31.28:424][977]LogFab: Display: Logging in using persist
+[2026.09.13-21.31.28:654][983]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 5ab...af8 Access[Expires: 2026.09.13-23.31.27 Remaining: 7200.58] Refresh[Expires: 2027-03-12T20:05:06.385Z Remaining: 15546819.38] State: Valid
+[2026.09.13-21.31.28:703][984]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.09.13-21.31.28:854][992]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.09.13-21.31.28:854][992]LogFab: Display: User logged in
+[2026.09.13-21.31.28:854][992]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.09.13-21.31.44:388][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 683.697815
+[2026.09.13-21.31.44:473][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.13-21.31.44:473][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 683.767883, Update Interval: 352.435669
+[2026.09.13-21.32.30:223][159]LogShaderCompilers: Display: ================================================
+[2026.09.13-21.32.30:223][159]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.13-21.32.30:223][159]LogShaderCompilers: Display: Total job queries 654, among them cache hits 85 (13.00%), DDC hits 487 (74.46%), Duplicates 56 (8.56%)
+[2026.09.13-21.32.30:223][159]LogShaderCompilers: Display: Tracking 513 distinct input hashes that result in 360 distinct outputs (70.18%)
+[2026.09.13-21.32.30:223][159]LogShaderCompilers: Display: RAM used: 4.51 MiB of 1.60 GiB budget. Usage: 0.28%
+[2026.09.13-21.32.30:223][159]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.13-21.32.30:223][159]LogShaderCompilers: Display: Shaders Compiled: 26
+[2026.09.13-21.32.30:223][159]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Average time worker was idle: 113.20 s
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 1.78 s
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 1.80
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Shader code size: total 337.37 KiB, numShaders 28, average 12.049 KiB, min 1.912 KiB, max 34.641 KiB
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.50 s
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Average processing rate: 4.00 jobs/sec
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Total thread time: 13.005 s
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Total thread preprocess time: 13.169 s
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Percentage time preprocessing: 101.27%
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Effective parallelization: 2.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.250166
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.18 sec, max 1.27 sec, min 1.09 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.43 sec, max 0.89 sec, min 0.21 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.15% of total time (compiled    2 times, average 1.18 sec, max 1.27 sec, min 1.09 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.35% of total time (compiled    4 times, average 0.43 sec, max 0.89 sec, min 0.21 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                                 FLumenCardCS - 10.32% of total time (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.42% of total time (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.46% of total time (compiled    3 times, average 0.37 sec, max 0.39 sec, min 0.31 sec)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: === Material stats ===
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Materials Translated:    175
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Material Translation Only: 0.07 s (46%)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
+[2026.09.13-21.32.30:224][159]LogShaderCompilers: Display: ================================================
+[2026.09.13-21.33.39:812][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.09.13-21.33.39:827][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/4/F8/J2EDQUYAD8LCQ4K5P4C8YZ_Auto1
+[2026.09.13-21.33.39:827][521]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/J2EDQUYAD8LCQ4K5P4C8YZ_Auto1F2CF5B6F4B210329D589DEB94418C587.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/4/F8/J2EDQUYAD8LCQ4K5P4C8YZ_Auto1.uasset'
+[2026.09.13-21.33.39:835][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/A/TP/ET7XDYA9E61SCQDQRBO05F_Auto1
+[2026.09.13-21.33.39:835][521]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/ET7XDYA9E61SCQDQRBO05F_Auto10F4171DD49DFDE8A6A5DAF9F94AC01DE.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/A/TP/ET7XDYA9E61SCQDQRBO05F_Auto1.uasset'
+[2026.09.13-21.33.39:843][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/5/X8/QP0ZJL7LOXMWY8LCEBH19T_Auto1
+[2026.09.13-21.33.39:843][521]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/QP0ZJL7LOXMWY8LCEBH19T_Auto12531307A4807C9EC7F0270ADB11AD11E.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/5/X8/QP0ZJL7LOXMWY8LCEBH19T_Auto1.uasset'
+[2026.09.13-21.33.39:853][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/Z7/UFVDLQNYWHWIUA6EKREREB_Auto1
+[2026.09.13-21.33.39:853][521]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/UFVDLQNYWHWIUA6EKREREB_Auto1AAB8C3D14C9612C0D0956AA48EBF9171.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/Z7/UFVDLQNYWHWIUA6EKREREB_Auto1.uasset'
+[2026.09.13-21.33.39:861][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/9/HG/QSRFGEKF6UZQ4IGJU45JQS_Auto1
+[2026.09.13-21.33.39:862][521]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/QSRFGEKF6UZQ4IGJU45JQS_Auto1DE82035E473ECAEA52861B9A7858A21D.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/9/HG/QSRFGEKF6UZQ4IGJU45JQS_Auto1.uasset'
+[2026.09.13-21.33.39:862][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.083
+[2026.09.13-21.33.39:863][521]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2026.09.13-21.34.39:817][428]LogFab: Display: Add listing to project - 38f5beea-da28-4bd2-af41-24b0d48b967d
+[2026.09.13-21.34.39:818][428]LogFab: Display: Listing type - unreal-engine
+[2026.09.13-21.34.39:818][428]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/Dolomiteb372fbcb9726V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Dolomiteb372fbcb9726V1/CloudDir,https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/Dolomiteb372fbcb9726V1/CloudDir
+[2026.09.13-21.34.58:339][254]LogContentBrowser: Migrated 0 editor favorites to project favorites
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/_Global/Materials/Functions/MF_Apex2ndMaterialPass.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/_Global/Materials/Functions/MF_ApexDetailPass.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/_Global/Materials/Functions/MF_ApexFresnel.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/_Global/Materials/Functions/MF_ApexMacroPass.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/_Global/Materials/M_ApexMasterProps.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/_Global/Overview.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/_Global/Textures/white.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Maps/Levels/Lighting_BuiltData.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Maps/Levels/Overview_Plane_BuiltData.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Rocks/Large/Materials/MI_APXN_DOLR_Rock_Large_02.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Rocks/Large/SM_APXN_DOLR_Rock_Large_02.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Rocks/Large/Textures/T_APXN_DOLR_Rock_Large_02_COL.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Rocks/Large/Textures/T_APXN_DOLR_Rock_Large_02_NRM.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Rocks/Large/Textures/T_APXN_DOLR_Rock_Large_02_ORD.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Textures/Detail/T_APXN_DOLR_Rock_Detail_01_COL.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Textures/Detail/T_APXN_DOLR_Rock_Detail_01_NRM.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Textures/Detail/T_APXN_DOLR_Rock_Detail_02_Grayscale_COL.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Textures/Detail/T_APXN_DOLR_Rock_Detail_02_NRM.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Found C:/Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/ApexNature/Dolomites/Textures/Detail/T_Generic_Rock_Detail_Packed.uasset
+[2026.09.13-21.34.58:342][254]LogFab: Display: Scanning 19 assets for plugin dependencies...
+
+[2026.09.13-21.35.01:339][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.09.13-21.35.03:227][379]LogSlate: Window 'Save Content' being destroyed
+[2026.09.13-21.35.03:237][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.13-21.35.03:294][379]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/HG/QSRFGEKF6UZQ4IGJU45JQS
+[2026.09.13-21.35.03:301][379]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/HG/QSRFGEKF6UZQ4IGJU45JQS
+[2026.09.13-21.35.03:301][379]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/QSRFGEKF6UZQ4IGJU45JQS689B3FD24F3F81C0400858B1B0AFAED2.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/HG/QSRFGEKF6UZQ4IGJU45JQS.uasset'
+[2026.09.13-21.35.03:303][379]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/4/F8/J2EDQUYAD8LCQ4K5P4C8YZ
+[2026.09.13-21.35.03:311][379]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/4/F8/J2EDQUYAD8LCQ4K5P4C8YZ
+[2026.09.13-21.35.03:311][379]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/J2EDQUYAD8LCQ4K5P4C8YZF3D3CCB64B383D1BF757919EDC25690A.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/4/F8/J2EDQUYAD8LCQ4K5P4C8YZ.uasset'
+[2026.09.13-21.35.03:313][379]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/5/X8/QP0ZJL7LOXMWY8LCEBH19T
+[2026.09.13-21.35.03:321][379]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/5/X8/QP0ZJL7LOXMWY8LCEBH19T
+[2026.09.13-21.35.03:321][379]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/QP0ZJL7LOXMWY8LCEBH19T07753C114922C505C4ECF8B655EDA3D6.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/5/X8/QP0ZJL7LOXMWY8LCEBH19T.uasset'
+[2026.09.13-21.35.03:322][379]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/A/TP/ET7XDYA9E61SCQDQRBO05F
+[2026.09.13-21.35.03:329][379]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/TP/ET7XDYA9E61SCQDQRBO05F
+[2026.09.13-21.35.03:329][379]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/ET7XDYA9E61SCQDQRBO05FEA5D4B454B6F6CD9F679C6B3B5DEDA87.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/A/TP/ET7XDYA9E61SCQDQRBO05F.uasset'
+[2026.09.13-21.35.03:330][379]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Maps/Level1/9/Z7/UFVDLQNYWHWIUA6EKREREB
+[2026.09.13-21.35.03:338][379]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/Z7/UFVDLQNYWHWIUA6EKREREB
+[2026.09.13-21.35.03:338][379]LogSavePackage: Moving '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/UFVDLQNYWHWIUA6EKREREB540AC0D94EE4E008249EE9B4A149FEE4.tmp' to '../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Content/__ExternalActors__/Maps/Level1/9/Z7/UFVDLQNYWHWIUA6EKREREB.uasset'
+[2026.09.13-21.35.03:350][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.784 ms (total: 235.873 ms)
+[2026.09.13-21.35.03:412][379]LogContentValidation: Enabled validators:
+[2026.09.13-21.35.03:412][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.13-21.35.03:412][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.13-21.35.03:412][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.13-21.35.03:412][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.13-21.35.03:412][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.13-21.35.03:412][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.13-21.35.03:412][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.13-21.35.03:412][379]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.13-21.35.03:413][379]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.13-21.35.03:413][379]LogContentValidation: Display: Starting to validate 1 assets (5 associated objects such as actors)
+[2026.09.13-21.35.03:413][379]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.13-21.35.03:413][379]AssetCheck: /Game/Maps/Level1 Validating asset
+[2026.09.13-21.35.03:413][379]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.13-21.35.03:413][379]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.13-21.35.03:457][379]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmidura/Documents/GitHub/A-Lilac-Lost-In-Space/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.13-21.35.23:953][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.09.13-21.35.23:999][523]LogStall: Shutdown...
+[2026.09.13-21.35.24:003][523]LogStall: Shutdown complete.
+[2026.09.13-21.35.24:013][523]LogSlate: Window 'Results for "floatsky" | Search | Fab' being destroyed
+[2026.09.13-21.35.24:017][523]LogSlate: Window 'Content Browser' being destroyed
+[2026.09.13-21.35.24:023][523]LogSlate: Window 'ALilacLostInSpace - Unreal Editor' being destroyed
+[2026.09.13-21.35.24:122][523]Cmd: QUIT_EDITOR
+[2026.09.13-21.35.24:122][524]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.09.13-21.35.24:127][524]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.09.13-21.35.24:127][524]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.09.13-21.35.24:127][524]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.09.13-21.35.24:144][524]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.09.13-21.35.24:144][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.13-21.35.24:144][524]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/Level1.Level1
+[2026.09.13-21.35.24:145][524]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.09.13-21.35.24:153][524]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.09.13-21.35.24:153][524]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.09.13-21.35.24:171][524]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.09.13-21.35.24:185][524]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.09.13-21.35.24:185][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.13-21.35.24:187][524]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.13-21.35.24:187][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.13-21.35.24:187][524]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.13-21.35.24:187][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.13-21.35.24:189][524]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.09.13-21.35.24:198][524]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.09.13-21.35.24:200][524]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.09.13-21.35.24:200][524]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.09.13-21.35.24:200][524]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2026.09.13-21.35.24:200][524]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.09.13-21.35.24:200][524]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.09.13-21.35.24:209][524]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.13-21.35.24:235][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.09.13-21.35.24:235][524]LogAudio: Display: Audio Device Manager Shutdown
+[2026.09.13-21.35.24:269][524]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.09.13-21.35.24:274][524]LogExit: Preparing to exit.
+[2026.09.13-21.35.24:400][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.09.13-21.35.25:423][524]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.09.13-21.35.25:423][524]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.09.13-21.35.25:426][524]LogEditorDataStorage: Deinitializing
+[2026.09.13-21.35.25:427][524]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.09.13-21.35.25:427][524]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.09.13-21.35.25:427][524]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.09.13-21.35.25:427][524]LogEditorDataStorage: Resetting TEDS Core.
+[2026.09.13-21.35.25:428][524]LogEditorDataStorage: Reset TEDS Core.
+[2026.09.13-21.35.25:428][524]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.09.13-21.35.25:552][524]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.09.13-21.35.25:574][524]LogExit: Editor shut down
+[2026.09.13-21.35.25:577][524]LogExit: Transaction tracking system shut down
+[2026.09.13-21.35.25:624][524]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.13-21.35.25:624][524]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.13-21.35.25:627][524]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.13-21.35.25:627][524]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.13-21.35.25:672][524]LogExit: Object subsystem successfully closed.
+[2026.09.13-21.35.25:780][524]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.09.13-21.35.26:043][524]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/search?max_unreal_engine_version=UE_5.8&min_unreal_engine_version=UE_5.8&q=rock.
+[2026.09.13-21.35.26:147][524]LogObjectProfiler: Shutdown
+[2026.09.13-21.35.26:147][524]LogMemoryProfiler: Shutdown
+[2026.09.13-21.35.26:147][524]LogNetworkingProfiler: Shutdown
+[2026.09.13-21.35.26:147][524]LogLoadingProfiler: Shutdown
+[2026.09.13-21.35.26:147][524]LogTimingProfiler: Shutdown
+[2026.09.13-21.35.26:148][524]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.09.13-21.35.26:148][524]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.09.13-21.35.26:148][524]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.09.13-21.35.26:148][524]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.09.13-21.35.26:148][524]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.09.13-21.35.26:419][524]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.09.13-21.35.26:429][524]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.09.13-21.35.26:429][524]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40B88527-4CBA-D142-359E-1791BAF43533%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=362e7f7e4f43f85b3f6cf7bd482baf71%7C5ab734f0fe1e4fb0829f774b4212caf8%7Cf4f6da86-4780-44b0-bdf1-85ad66395b0b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.09.13-21.35.26:996][524]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.09.13-21.35.26:996][524]LogNFORDenoise: NFORDenoise function shutting down
+[2026.09.13-21.35.26:996][524]RenderDocPlugin: plugin has been unloaded.
+[2026.09.13-21.35.26:996][524]LogXGEController: Cleaning working directory: C:/Users/pmidura/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.09.13-21.35.26:997][524]LogPakFile: Destroying PakPlatformFile
+[2026.09.13-21.35.27:258][524]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.09.13-21.35.27:300][524]LogExit: Exiting.
+[2026.09.13-21.35.27:321][524]Log file closed, 09/13/26 17:35:27
