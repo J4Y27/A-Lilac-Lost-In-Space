@@ -1996,3 +1996,13 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.14-18.57.30:924][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -1974487726
 [2026.09.14-18.57.30:925][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.443513, Update Interval: 351.716064
 [2026.09.14-18.59.45:589][745]LogDerivedDataCache: C:/Users/djant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.160 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16010 files in 16089 folders with total size 321 MiB.
+[2026.09.14-19.00.46:115][836]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.14-19.00.46:131][836]LogChaosDD: Creating Chaos Debug Draw Scene for world PuzzleTemp
+[2026.09.14-19.01.41:575][617]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.14-19.01.41:578][617]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Puzzles/Puzzle_assets/Frame.Frame
+[2026.09.14-19.01.41:579][617]LogModuleManager: InternalLoadLibrary: 'TextureEditor' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-TextureEditor.dll')
+[2026.09.14-19.01.45:478][908]LogSlate: Window 'Frame' being destroyed
+[2026.09.14-19.02.12:539][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.09.14-19.02.13:957][907]LogSlate: Window 'Asset Report' being destroyed
+[2026.09.14-19.02.23:367][910]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/ToonProfile_16.svg'. File could not be found
+[2026.09.14-19.02.23:367][910]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
