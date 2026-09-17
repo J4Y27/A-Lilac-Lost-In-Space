@@ -3031,3 +3031,6 @@ FPackageName: Skipped package /Game/Puzzles/Puzzle_assets/Pipe_3 has a valid, mo
 [2026.09.17-02.08.05:730][438]LogShaderCompilers: Display: Material Cache Hits: 25 (14%)
 [2026.09.17-02.08.05:730][438]LogShaderCompilers: Display: ================================================
 [2026.09.17-02.11.10:778][384]LogSlate: Window 'FBX Export Options' being destroyed
+[2026.09.17-02.15.45:482][384]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
